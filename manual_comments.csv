@@ -1,0 +1,1335 @@
+﻿issueId,C_createdAt,C_authorName,C_authorAssociation,C_authorGender,C_mention,C_confident,C_info,C_nature,C_keyPoint
+MDU6SXNzdWU0MDA2MjY1NzA=,2/8/2019 9:31:20,Ravi Sharda,CONTRIBUTOR,male,No,Not applicable,None,Elaboration,No
+MDU6SXNzdWU0MDA2MjY1NzA=,3/22/2019 23:11:15,Vijay Srinivasaraghavan,COLLABORATOR,male,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWU0MDA2MjY1NzA=,5/7/2019 23:58:20,Vijay Srinivasaraghavan,COLLABORATOR,male,No,Yes,Others,Notification,No
+MDU6SXNzdWU0MDc5MzU4MDA=,2/7/2019 23:11:44,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0MDE1ODQzMDI=,1/29/2020 14:39:54,dahn,CONTRIBUTOR,unknown,Author of Issue,Not applicable,None,Reminder,No
+MDU6SXNzdWU0MDUxOTYyODc=,1/31/2019 17:06:30,Matteo Merli,CONTRIBUTOR,male,Author of Issue,No,None,Elaboration,No
+MDU6SXNzdWU0MDUxOTYyODc=,2/1/2019 1:18:41,Jia Zhai,MEMBER,unknown,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWU0MDUxOTYyODc=,5/4/2019 4:04:08,Jia Zhai,MEMBER,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWU0Mjg5ODIxMDQ=,4/3/2019 21:25:00,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0Mjk0MDY2MjI=,4/4/2019 17:50:55,Elastic Machine,COLLABORATOR,unknown,No,Not applicable,None,Ask / Request,No
+MDU6SXNzdWU0Mjk0MDY2MjI=,4/4/2019 17:50:57,Elastic Machine,COLLABORATOR,unknown,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWU0Mjk0MDY2MjI=,4/24/2019 23:46:06,Shaunak Kashyap,CONTRIBUTOR,male,Author of Issue,Yes,None,Elaboration,Yes
+MDU6SXNzdWU0Mjk0MDY2MjI=,4/25/2019 4:48:22,Ioannis Kakavas,CONTRIBUTOR,male,Contributor,Yes,Fix,Elaboration,Yes
+MDU6SXNzdWU0Mjk0MDY2MjI=,4/25/2019 7:36:32, ,CONTRIBUTOR,unknown,Contributor,Yes,None,Notification,No
+MDU6SXNzdWU0Mjk0MDY2MjI=,4/29/2019 6:29:18,Tim Vernum,CONTRIBUTOR,male,Contributor,Not applicable,None,Reminder,No
+MDU6SXNzdWU0Mjk0MDY2MjI=,4/29/2019 6:40:32,Tim Vernum,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0Mjk0MDY2MjI=,4/29/2019 14:12:52,Shaunak Kashyap,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0MjU2Njk2NDA=,5/13/2019 17:08:50,Christopher Jackson,NONE,male,Member,Yes,None,Ask / Request,No
+MDU6SXNzdWU0MjU2Njk2NDA=,5/16/2019 14:26:46,Ut Le,MEMBER,unknown,Author of Issue,Yes,None,Elaboration,Yes
+MDU6SXNzdWU0MjU2Njk2NDA=,6/28/2019 15:52:44,Ut Le,MEMBER,unknown,Author of Issue,Yes,None,Reminder,No
+MDU6SXNzdWU0MjU4MDEzOTA=,3/27/2019 11:18:43,Elastic Machine,COLLABORATOR,unknown,Author of Issue,No,Documentation,Ask / Request,No
+MDU6SXNzdWU0MjU4MDEzOTA=,3/27/2019 11:19:52,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0MjU4MDEzOTA=,4/1/2019 5:12:47,Tim Vernum,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0MjU5NTcwNDg=,3/27/2019 13:22:48,Elastic Machine,COLLABORATOR,unknown,No,No,Others,Elaboration,No
+MDU6SXNzdWU0MjU5NTcwNDg=,3/27/2019 14:42:21,Ioannis Kakavas,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU0MjU5NTcwNDg=,4/1/2019 2:52:33,Tim Vernum,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0MjUyMTE2MQ==,10/2/2014 9:03:45,Vlastimil Eliáš,MEMBER,male,No,No,Fix,Ask / Request,No
+MDU6SXNzdWU0MjUyMTE2MQ==,12/1/2014 20:12:57,Lukáš Vlček,MEMBER,unknown,Author of Issue,Yes,Documentation,Elaboration,Yes
+MDU6SXNzdWU0MjUyMTE2MQ==,12/1/2014 20:24:14,Lukáš Vlček,MEMBER,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWU0MjUyMTE2MQ==,12/3/2014 9:20:46,David Pilato,NONE,male,No,Yes,Others,Instruction,Yes
+MDU6SXNzdWU0MjUyMTE2MQ==,12/3/2014 10:31:35,Lukáš Vlček,MEMBER,unknown,Other,Not applicable,None,Other,No
+MDU6SXNzdWU0MTgxMDkxNQ==,9/3/2014 12:33:52,Jörg Hohwiller,MEMBER,male,No,No,None,Elaboration,No
+MDU6SXNzdWU0MTgxMDkxNQ==,9/15/2014 8:06:57,Jörg Hohwiller,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU0MTgxMDkxNQ==,9/17/2014 13:27:09,Malte Brunnlieb,MEMBER,male,No,Yes,Fix,Elaboration,No
+MDU6SXNzdWU0MTgxMDkxNQ==,9/30/2014 9:48:40,Jörg Hohwiller,MEMBER,male,No,No,None,Elaboration,No
+MDU6SXNzdWU0MTgxMDkxNQ==,12/15/2014 15:05:58,Jörg Hohwiller,MEMBER,male,No,Yes,None,Instruction,No
+MDU6SXNzdWU0MTgxMDkxNQ==,6/6/2016 7:34:30,Jörg Hohwiller,MEMBER,male,No,Yes,None,Notification,No
+MDU6SXNzdWU0MTgxMDkxNQ==,6/6/2016 7:35:49,Jörg Hohwiller,MEMBER,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWU0MTIxOTY4OTI=,2/27/2019 6:19:54,Wataru Sawami,CONTRIBUTOR,male,No,Not applicable,None,Notification,Yes
+MDU6SXNzdWU0MTMwODc0OTI=,3/19/2020 20:05:07, ,NONE,unknown,No,Not applicable,None,Reminder,No
+MDU6SXNzdWU0MTQ1NzgxMDg=,2/26/2019 23:08:12,Nick Babcock,CONTRIBUTOR,male,No,No,None,Elaboration,No
+MDU6SXNzdWU0MTUxNDQ4OTI=,2/27/2019 14:19:04,William Cheng,MEMBER,male,Member,Yes,Documentation,Ask / Request,Yes
+MDU6SXNzdWU0MTUxNDQ4OTI=,4/18/2019 18:56:16,Jonathan Leitschuh,CONTRIBUTOR,male,Member,No,Documentation,Ask / Request,No
+MDU6SXNzdWU0MTUxNDQ4OTI=,4/19/2019 5:50:34,William Cheng,MEMBER,male,Author of Issue,No,Others,Elaboration,No
+MDU6SXNzdWU0MTUxNDQ4OTI=,4/19/2019 13:16:42,Jonathan Leitschuh,CONTRIBUTOR,male,No,Yes,CVE,Elaboration,No
+MDU6SXNzdWU0MTUxNDQ4OTI=,4/22/2019 15:09:27,Jonathan Leitschuh,CONTRIBUTOR,male,Member,Yes,Documentation,Notification,Yes
+MDU6SXNzdWU0MTUxNDQ4OTI=,6/12/2019 6:15:44,Jérémie Bresson,MEMBER,male,Author of Issue,Yes,Fix,Notification,No
+MDU6SXNzdWU0MTUxNDQ4OTI=,6/12/2019 11:19:08,Jonathan Leitschuh,CONTRIBUTOR,male,No,Yes,Fix,Notification,No
+MDU6SXNzdWU0MTYwMzk5NTI=,3/1/2019 10:33:39,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0MzA0NDQyMTg=,4/8/2019 14:22:41,Santiago Pericasgeertsen,MEMBER,male,Author of Issue,No,None,Ask / Request,No
+MDU6SXNzdWU0MzA0NDQyMTg=,4/8/2019 14:36:42,Martin Sladecek,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU0MzA0NDQyMTg=,4/8/2019 14:42:33,Santiago Pericasgeertsen,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU0MzA0NDQyMTg=,4/15/2019 18:52:28,Tomas Langer,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU0MzA0NDQyMTg=,4/16/2019 20:40:18,Tomas Langer,MEMBER,male,No,Yes,None,Elaboration,Yes
+MDU6SXNzdWU0MzA0NDQyMTg=,4/24/2019 8:48:47,Tomas Langer,MEMBER,male,Author of Issue,Not applicable,None,Other,No
+MDU6SXNzdWU0MzAxMzI1MQ==,9/18/2014 13:38:45,Vlastimil Eliáš,MEMBER,male,No,Yes,None,Elaboration,Yes
+MDU6SXNzdWU0MzAxMzI1MQ==,9/18/2014 13:42:54,Libor Krzyzanek,MEMBER,male,No,Yes,Documentation,Instruction,No
+MDU6SXNzdWU0MzAxMzI1MQ==,9/19/2014 8:09:25,Libor Krzyzanek,MEMBER,male,No,Yes,Fix,Instruction,No
+MDU6SXNzdWU0MzAxMzI1MQ==,9/19/2014 8:59:38,Vlastimil Eliáš,MEMBER,male,Member,Not applicable,None,Notification,No
+MDU6SXNzdWU0Mzc3ODk5OQ==,9/24/2014 15:31:53,Jörg Hohwiller,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU0Mzc3ODk5OQ==,9/29/2014 13:55:19,Jörg Hohwiller,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU0Mzc3ODk5OQ==,9/29/2014 13:56:18,Jörg Hohwiller,MEMBER,male,No,No,Fix,Notification,No
+MDU6SXNzdWU0MzcxNDQ2NDU=,4/25/2019 18:08:09,Michael Zamani,MEMBER,male,No,No,None,Ask / Request,No
+MDU6SXNzdWU0MzcxNDQ2NDU=,4/29/2019 6:53:49,Jochen Schalanda,MEMBER,male,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWU0MzE0MzMwODg=,4/10/2019 17:55:47,James Kleeh,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU0MzE0MzMwODg=,4/10/2019 20:47:06,James Kleeh,CONTRIBUTOR,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWU0MzE4ODQ4ODc=,4/12/2019 8:04:07,Yoshi Automation Bot,CONTRIBUTOR,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWU0MzgzNDU3MzY=,4/29/2019 14:30:55,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0MzM4MjU1MzQ=,4/26/2019 8:44:51,Konstantin Krivopustov,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU0MzMwNTQzNDQ=,4/15/2019 0:44:14,Elastic Machine,COLLABORATOR,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWU0MzMwNTQzNDQ=,4/15/2019 19:00:04,Jay Modi,MEMBER,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0MzQyNDMzNjY=,4/17/2019 11:58:33,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0NDcxNjkyOTI=,5/22/2019 15:16:37,Ravi Sharda,CONTRIBUTOR,male,Author of Issue,Not applicable,None,Ask / Request,No
+MDU6SXNzdWU0NDcxNjkyOTI=,5/23/2019 11:12:51,Ravi Sharda,CONTRIBUTOR,male,No,Yes,None,Notification,No
+MDU6SXNzdWU0NDcxNjkyOTI=,5/24/2019 9:01:42, ,NONE,unknown,No,Yes,None,Reminder,Yes
+MDU6SXNzdWU0NDEyNTAwNDU=,6/5/2019 16:30:37,Ancuta Morarasu,CONTRIBUTOR,female,No,Yes,None,Notification,Yes
+MDU6SXNzdWU0NDEyNTAxNDg=,6/5/2019 16:31:27,Ancuta Morarasu,CONTRIBUTOR,female,No,Yes,None,Notification,Yes
+MDU6SXNzdWU0NDEyNTAxNjA=,6/5/2019 16:31:23,Ancuta Morarasu,CONTRIBUTOR,female,No,Yes,None,Notification,Yes
+MDU6SXNzdWU0NDkyNjA1Ng==,11/27/2014 12:46:48,Chris Beams,MEMBER,male,No,Not applicable,None,Notification,No
+MDU6SXNzdWU0NDM4MTIwNzg=,10/17/2019 10:10:59, ,CONTRIBUTOR,unknown,No,Yes,Fix,Elaboration,Yes
+MDU6SXNzdWU0NDU4MzY1MQ==,8/15/2015 11:16:22,Slava Semushin,OWNER,male,No,No,None,Elaboration,No
+MDU6SXNzdWU0NDU4MzY1MQ==,11/10/2016 21:44:38,Slava Semushin,OWNER,male,No,No,None,Elaboration,No
+MDU6SXNzdWU0NDU4MzY1MQ==,12/8/2016 22:03:55,Slava Semushin,OWNER,male,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWU0NDU4MzY1MQ==,12/8/2016 22:35:04,Slava Semushin,OWNER,male,No,Yes,None,Notification,No
+MDU6SXNzdWU0NDU4MzY1MQ==,12/8/2016 22:46:08,Slava Semushin,OWNER,male,No,No,None,Notification,No
+MDU6SXNzdWU0NDYzNjI0ODM=,5/21/2019 1:29:55,Josh Bressers,NONE,male,Member,Yes,None,Notification,Yes
+MDU6SXNzdWU0NjcxMDk0OA==,10/30/2014 12:44:49,Vlastimil Eliáš,MEMBER,male,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWU0NjcxMDk0OA==,10/31/2014 14:10:18,Vlastimil Eliáš,MEMBER,male,No,Not applicable,Documentation,Other,No
+MDU6SXNzdWU0NjE1MTA4MTY=,7/23/2019 14:38:37,Teodor Danciu,COLLABORATOR,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWU0NjE1MTA5MjM=,7/8/2019 8:06:38,Teodor Danciu,COLLABORATOR,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWU0NjE1MTA5ODQ=,7/8/2019 8:04:19,Teodor Danciu,COLLABORATOR,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWU0NjgwMDE4OTM=,7/15/2019 8:32:05,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Notification,No
+MDU6SXNzdWU0NjgwMDE4OTM=,7/15/2019 8:32:07,Elastic Machine,COLLABORATOR,unknown,No,Not applicable,Documentation,Other,No
+MDU6SXNzdWU0NjgwMDE4OTM=,7/15/2019 8:32:50,Tim Vernum,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0NjgwMDE4OTM=,10/7/2019 14:56:05,James Rodewig,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0NjgyMTU5MTA=,7/15/2019 21:11:50,Bruce Tiffany,MEMBER,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWU0NjIzMTIzMjY=,6/29/2019 15:27:57,Toshi Yamamoto,CONTRIBUTOR,male,No,Yes,None,Elaboration,Yes
+MDU6SXNzdWU0Njk5ODAzMjk=,7/18/2019 21:41:17, ,CONTRIBUTOR,unknown,No,Yes,Others,Elaboration,No
+MDU6SXNzdWU0Njk5ODAzMjk=,7/23/2019 15:53:07,Adam Yoho,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU0NjM1ODAwMDI=,11/18/2019 8:49:28,Sujata,COLLABORATOR,female,No,Yes,None,Notification,Yes
+MDU6SXNzdWU0NjQ1NTcxMTI=,7/5/2019 9:44:23,Elastic Machine,COLLABORATOR,unknown,No,No,Documentation,Notification,No
+MDU6SXNzdWU0NjQ1NTcxMTI=,9/4/2019 8:24:19,Tim Vernum,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0NjY2ODE4NDk=,7/11/2019 6:10:13,Elastic Machine,COLLABORATOR,unknown,No,Not applicable,None,Notification,No
+MDU6SXNzdWU0NjY2ODE4NDk=,7/11/2019 6:10:15,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0NjY2ODE4NDk=,7/11/2019 6:10:16,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0NjY2ODE4NDk=,10/12/2019 1:32:52, ,CONTRIBUTOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0NTc3MzgxMjc=,11/18/2019 8:35:21,Sujata,COLLABORATOR,female,No,Yes,None,Notification,Yes
+MDU6SXNzdWU0NTc3MzgyMDY=,11/18/2019 8:45:57,Sujata,COLLABORATOR,female,No,Yes,None,Notification,Yes
+MDU6SXNzdWU0NTc3ODg3NTc=,6/19/2019 4:09:20,Elastic Machine,COLLABORATOR,unknown,Author of Issue,Yes,Documentation,Instruction,Yes
+MDU6SXNzdWU0NTc3ODg3NTc=,6/19/2019 4:09:21,Tim Vernum,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0NTczNzU4OA==,1/28/2015 11:12:13, ,CONTRIBUTOR,unknown,No,No,None,Notification,Yes
+MDU6SXNzdWU0NTI1MjE4NTE=,6/5/2019 14:32:12,Christopher Grote,MEMBER,male,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWU0NTI1MjE4NTE=,1/9/2020 17:20:07,Nigel Jones,MEMBER,male,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWU0NTMwMzcyMDM=,6/7/2019 19:59:19,Jonathan Wei,CONTRIBUTOR,male,Author of Issue,Not applicable,None,Ask / Request,No
+MDU6SXNzdWU0NTMwMzcyMDM=,6/10/2019 17:23:57,Roman Leventov,MEMBER,male,No,Yes,None,Ask / Request,No
+MDU6SXNzdWU0NTMwMzcyMDM=,6/10/2019 20:01:54,Jonathan Wei,CONTRIBUTOR,male,No,Not applicable,None,Elaboration,No
+MDU6SXNzdWU0NTMwMzcyMDM=,7/16/2019 15:49:21,Roman Leventov,MEMBER,male,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWU0NTMwMzcyMDM=,10/11/2019 23:17:24,Yun Fu,NONE,unknown,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWU0NTMwMzcyMDM=,10/13/2019 5:15:35,Yun Fu,NONE,unknown,Author of Issue,Yes,None,Notification,Yes
+MDU6SXNzdWU0NTMwMzcyMDM=,11/23/2019 9:56:13,Roman Leventov,MEMBER,male,Author of Issue,Not applicable,None,Reminder,No
+MDU6SXNzdWU0NTQ1MjI5NzY=,6/11/2019 7:27:36,Elastic Machine,COLLABORATOR,unknown,No,Not applicable,Documentation,Other,No
+MDU6SXNzdWU0NTQ1MjI5NzY=,6/14/2019 17:11:41,Jared Carey,MEMBER,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0NTUwNjQ4NjI=,6/12/2019 7:56:49,Elastic Machine,COLLABORATOR,unknown,No,Not applicable,Documentation,Notification,No
+MDU6SXNzdWU0NTUwNjQ4NjI=,6/26/2019 11:05:40,David Kyle,MEMBER,male,No,Not applicable,Documentation,Notification,No
+MDU6SXNzdWU0NTUwNjQ4NjI=,7/4/2019 15:20:03,Mayya Sharipova,CONTRIBUTOR,female,No,Not applicable,Documentation,Notification,No
+MDU6SXNzdWU0NTUwNjQ4NjI=,7/16/2019 14:06:35,Marios Trivyzas,CONTRIBUTOR,male,No,Not applicable,Documentation,Notification,No
+MDU6SXNzdWU0NTUwNjQ4NjI=,7/18/2019 7:55:07,Przemysław Witek,CONTRIBUTOR,unknown,No,Not applicable,Documentation,Notification,No
+MDU6SXNzdWU0NTUwNjQ4NjI=,7/19/2019 8:32:55,Andrey Ershov,CONTRIBUTOR,male,No,Not applicable,Documentation,Notification,No
+MDU6SXNzdWU0NTUwNjQ4NjI=,7/22/2019 14:23:11,Evgenia Badyanova,CONTRIBUTOR,female,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWU0NTUwNjQ4NjI=,7/22/2019 14:28:51,Evgenia Badyanova,CONTRIBUTOR,female,No,Not applicable,Documentation,Notification,No
+MDU6SXNzdWU0NTUwNjQ4NjI=,7/22/2019 18:20:20,Ioannis Kakavas,CONTRIBUTOR,male,No,Not applicable,Documentation,Notification,No
+MDU6SXNzdWU0NTUwNjQ4NjI=,7/22/2019 19:43:26,Evgenia Badyanova,CONTRIBUTOR,female,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0NzA0ODIzMjk=,7/19/2019 19:42:56,Elastic Machine,COLLABORATOR,unknown,Author of Issue,No,None,Ask / Request,No
+MDU6SXNzdWU0NzA0ODIzMjk=,7/19/2019 19:44:12,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Elaboration,No
+MDU6SXNzdWU0NzA0ODIzMjk=,7/19/2019 19:50:23,Julie Tibshirani,MEMBER,female,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0NzA0ODIzMjk=,7/19/2019 20:40:07, ,NONE,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0Nzc4MDg5NTc=,10/3/2019 12:59:34, ,MEMBER,unknown,No,No,None,Ask / Request,No
+MDU6SXNzdWU0Nzc4MDg5NTc=,10/3/2019 13:06:48,Stuart Douglas,MEMBER,male,Member,No,None,Ask / Request,No
+MDU6SXNzdWU0Nzc4MDg5NTc=,10/3/2019 13:28:45, ,MEMBER,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWU0Nzc4MDg5NTc=,10/4/2019 16:49:32, ,MEMBER,unknown,Member,No,None,Elaboration,No
+MDU6SXNzdWU0Nzc4MDg5NTc=,10/4/2019 19:49:46,Paulo Lopes,NONE,male,Member,Yes,Fix,Notification,No
+MDU6SXNzdWU0Nzc4MDg5NTc=,10/5/2019 18:36:05, ,MEMBER,unknown,No,Yes,None,Notification,No
+MDU6SXNzdWU0Nzc4MDg5NTc=,10/6/2019 13:07:34, ,MEMBER,unknown,No,Yes,None,Notification,No
+MDU6SXNzdWU0Nzc4MDg5NTc=,10/7/2019 16:58:09, ,MEMBER,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWU0NzcyNDgyNzY=,10/7/2019 16:48:02,Matt Yarbrough,NONE,male,No,Not applicable,None,Notification,No
+MDU6SXNzdWU0NzcyNDgyNzY=,1/6/2020 13:27:19, ,NONE,unknown,No,Yes,None,Reminder,No
+MDU6SXNzdWU0NzcyNDgyNzY=,1/11/2020 20:27:33,Oscar Arrieta,COLLABORATOR,male,No,Not applicable,None,Reminder,No
+MDU6SXNzdWU0NzE1MDg0MzE=,7/24/2019 0:20:53,Tatu Saloranta,MEMBER,unknown,Member,Yes,None,Ask / Request,No
+MDU6SXNzdWU0NzE1MDg0MzE=,7/29/2019 16:09:21, ,NONE,unknown,Other,Yes,None,Elaboration,No
+MDU6SXNzdWU0NzE1MDg0MzE=,7/29/2019 16:11:23, ,NONE,unknown,No,Yes,CVE,Notification,No
+MDU6SXNzdWU0NzE1MDg0MzE=,7/29/2019 22:16:19,Tatu Saloranta,MEMBER,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWU0NzE2MTczNDA=,7/23/2019 10:46:17,Armin Braun,MEMBER,male,Author of Issue,Yes,None,Ask / Request,No
+MDU6SXNzdWU0NzE2MTczNDA=,7/23/2019 10:46:32,Elastic Machine,COLLABORATOR,unknown,Member,No,None,Elaboration,No
+MDU6SXNzdWU0NzE2MTczNDA=,7/23/2019 10:46:33,Elastic Machine,COLLABORATOR,unknown,Author of Issue,Yes,Documentation,Elaboration,No
+MDU6SXNzdWU0NzE2MTczNDA=,7/23/2019 10:51:22,Armin Braun,MEMBER,male,Contributor,Yes,None,Instruction,Yes
+MDU6SXNzdWU0NzE2MTczNDA=,7/23/2019 11:03:39,Endre Czirbesz,NONE,male,Author of Issue,Yes,None,Notification,Yes
+MDU6SXNzdWU0NzE2MTczNDA=,7/23/2019 11:40:15,Yogesh Gaikwad,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0NzE2MTczNDA=,7/23/2019 11:51:07,Armin Braun,MEMBER,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0NzE4ODQxMTg=,8/26/2019 15:49:13,Adam Yoho,MEMBER,male,No,Not applicable,None,Notification,No
+MDU6SXNzdWU0NzE4ODQxMTg=,3/19/2020 21:51:49, ,CONTRIBUTOR,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWU0Nzk5NDA5MDU=,8/13/2019 3:23:52,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWU0Nzk5NDA5MDU=,8/26/2019 8:38:16,Ioannis Kakavas,CONTRIBUTOR,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWU0Nzk5NDA5MDU=,8/26/2019 9:28:59,Ioannis Kakavas,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0NzM5Mjc3ODI=,7/29/2019 8:49:01,Elastic Machine,COLLABORATOR,unknown,No,Yes,Documentation,Elaboration,Yes
+MDU6SXNzdWU0NzM5Mjc3ODI=,7/29/2019 9:27:11,Ioannis Kakavas,CONTRIBUTOR,male,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWU0NzM5Mjc3ODI=,8/15/2019 8:17:07,David Roberts,CONTRIBUTOR,male,No,Not applicable,Documentation,Notification,No
+MDU6SXNzdWU0NzM5Mjc3ODI=,9/4/2019 3:19:38,Tim Vernum,CONTRIBUTOR,male,No,Not applicable,Documentation,Notification,No
+MDU6SXNzdWU0NzM5Mjc3ODI=,9/10/2019 9:24:13,Alpar Torok,CONTRIBUTOR,male,No,Not applicable,Documentation,Notification,No
+MDU6SXNzdWU0NzM5Mjc3ODI=,10/18/2019 14:52:56,Alan Woodward,CONTRIBUTOR,male,No,Not applicable,Documentation,Notification,No
+MDU6SXNzdWU0NzM5Mjc3ODI=,10/18/2019 14:53:24,Alan Woodward,CONTRIBUTOR,male,No,Not applicable,Documentation,Other,No
+MDU6SXNzdWU0NzM5Mjc3ODI=,10/21/2019 8:33:16,Alpar Torok,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0NzQ2Mjk1NzM=,12/18/2019 16:46:16,Bruce Tiffany,MEMBER,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWU0NzQyNjc2MzU=,7/29/2019 21:37:38,Jordan Sissel,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU0NzQyNjc2MzU=,7/29/2019 21:50:02,Jordan Sissel,CONTRIBUTOR,male,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWU0NzQyNjc2MzU=,7/30/2019 8:25:43,Elastic Machine,COLLABORATOR,unknown,Author of Issue,Yes,Fix,Notification,Yes
+MDU6SXNzdWU0NzQyNjc2MzU=,7/30/2019 8:35:13,Ioannis Kakavas,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0ODc3NjM2OTE=,9/5/2019 9:43:16,Duncan Paterson,CONTRIBUTOR,male,Author of Issue,Yes,None,Ask / Request,No
+MDU6SXNzdWU0ODc3NjM2OTE=,11/11/2019 20:31:52,Duncan Paterson,CONTRIBUTOR,male,No,No,None,Instruction,No
+MDU6SXNzdWU0ODE1MTUyNDA=,8/16/2019 12:35:03,Benny Bottema,OWNER,male,Contributor,No,None,Ask / Request,No
+MDU6SXNzdWU0ODE1MTUyNDA=,8/16/2019 13:51:07, ,NONE,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWU0ODE1MTUyNDA=,8/18/2019 9:28:23,Benny Bottema,OWNER,male,No,No,None,Elaboration,No
+MDU6SXNzdWU0ODE1MTUyNDA=,8/18/2019 9:34:15,Benny Bottema,OWNER,male,Member,Yes,None,Elaboration,No
+MDU6SXNzdWU0ODE1MTUyNDA=,8/18/2019 14:22:07,Benny Bottema,OWNER,male,Author of Issue,Yes,Fix,Notification,Yes
+MDU6SXNzdWU0ODE1MTUyNDA=,8/22/2019 20:02:53, ,NONE,unknown,No,Not applicable,None,Notification,No
+MDU6SXNzdWU0ODE1MTUyNDA=,9/28/2019 19:54:27,Benny Bottema,OWNER,male,No,No,None,Other,No
+MDU6SXNzdWU0ODE2NTE3MTY=,8/16/2019 15:12:20,Chris Crane,MEMBER,male,Author of Issue,Yes,None,Ask / Request,No
+MDU6SXNzdWU0ODE2NTE3MTY=,8/16/2019 15:49:25,Chris Crane,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU0ODE2NTE3MTY=,8/22/2019 14:42:56,Chris Crane,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU0ODE2NTE3MTY=,8/23/2019 16:46:48,Dave Waddling,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU0ODE2NTE3MTY=,8/29/2019 14:36:15,Dave Waddling,MEMBER,male,Author of Issue,No,None,Notification,Yes
+MDU6SXNzdWU0ODk5NTAyNDA=,9/5/2019 19:15:18, ,MEMBER,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWU0ODY2MzU4NQ==,11/13/2014 17:12:09,Max Gelman,NONE,male,No,No,None,Ask / Request,No
+MDU6SXNzdWU0ODY2MzU4NQ==,11/13/2014 17:12:09,Max Gelman,NONE,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU0ODY2MzU4NQ==,11/13/2014 17:12:10,Max Gelman,NONE,male,No,No,None,Elaboration,No
+MDU6SXNzdWU0ODY2MzU4NQ==,11/13/2014 17:12:10,Max Gelman,NONE,male,No,No,None,Elaboration,No
+MDU6SXNzdWU0ODY2MzU4NQ==,11/13/2014 17:12:10,Max Gelman,NONE,male,No,Not applicable,None,Notification,No
+MDU6SXNzdWU0ODY2MzU4NQ==,11/13/2014 17:12:11,Max Gelman,NONE,male,No,Not applicable,None,Notification,No
+MDU6SXNzdWU0ODY2MzU4NQ==,11/13/2014 17:12:11,Max Gelman,NONE,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWU0ODY2ODg4OQ==,11/13/2014 17:54:16,Max Gelman,NONE,male,No,No,None,Ask / Request,No
+MDU6SXNzdWU0OTg5OTUxMjQ=,9/27/2019 6:10:06,Clement Escoffier,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU0OTg5OTUxMjQ=,9/27/2019 8:26:12, ,MEMBER,unknown,Member,Yes,None,Elaboration,No
+MDU6SXNzdWU0OTg5OTUxMjQ=,9/27/2019 17:55:35,Clement Escoffier,MEMBER,male,No,Not applicable,None,Notification,Yes
+MDU6SXNzdWU0OTg5OTUxMjQ=,9/27/2019 19:52:03, ,MEMBER,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWU0OTgzNTAwOQ==,1/30/2015 14:29:31,Jörg Hohwiller,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU0OTgzNTAwOQ==,1/12/2017 13:43:11,Geoffroy ARNOUD,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU0OTgzNTAwOQ==,9/20/2018 6:47:35,Jörg Hohwiller,MEMBER,male,No,Not applicable,Documentation,Notification,No
+MDU6SXNzdWU0OTgzNTAwOQ==,11/1/2018 13:55:48,Jörg Hohwiller,MEMBER,male,No,Not applicable,None,Reminder,No
+MDU6SXNzdWU0OTQ2MzM3NTI=,9/17/2019 13:52:39,Thomas Andraschko,MEMBER,male,No,No,None,Ask / Request,No
+MDU6SXNzdWU0OTQ2MzM3NTI=,9/17/2019 13:54:24,Melloware,MEMBER,unknown,No,Yes,None,Other,No
+MDU6SXNzdWU0OTQzNTUxMDk=,2/24/2020 19:32:10,Atosa Khoddamhazrati,NONE,female,No,Yes,Documentation,Notification,No
+MDU6SXNzdWU0OTU1Mjk1OA==,1/17/2015 21:14:46,Jörg Hohwiller,MEMBER,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWU0OTU4NTQ2MjY=,9/19/2019 14:56:55,Elastic Machine,COLLABORATOR,unknown,No,Not applicable,Documentation,Notification,No
+MDU6SXNzdWU0OTU4NTQ2MjY=,9/19/2019 14:56:56,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU0OTU4NTQ2MjY=,10/17/2019 20:07:48,Chris Dean,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MDA1OTMzNzc=,10/1/2019 0:31:19,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Ask / Request,No
+MDU6SXNzdWU1MDA1OTMzNzc=,10/1/2019 0:31:20,Elastic Machine,COLLABORATOR,unknown,Contributor,Yes,None,Ask / Request,No
+MDU6SXNzdWU1MDA1OTMzNzc=,10/1/2019 0:31:21,Elastic Machine,COLLABORATOR,unknown,Author of Issue,Yes,None,Elaboration,No
+MDU6SXNzdWU1MDA1OTMzNzc=,10/9/2019 8:07:42,Yogesh Gaikwad,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1MDA1OTMzNzc=,10/9/2019 8:22:17,Yogesh Gaikwad,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1MDA1OTMzNzc=,10/9/2019 13:30:37,Tim Vernum,CONTRIBUTOR,male,No,No,None,Elaboration,No
+MDU6SXNzdWU1MDA1OTMzNzc=,10/10/2019 0:21:46,Yogesh Gaikwad,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1MDA1OTMzNzc=,10/11/2019 1:59:37,Yogesh Gaikwad,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1MDA1OTMzNzc=,10/11/2019 2:06:43,Tim Vernum,CONTRIBUTOR,male,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWU1MDA1OTMzNzc=,10/11/2019 2:20:54,Yogesh Gaikwad,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1MDA1OTMzNzc=,10/11/2019 2:29:31,Tim Vernum,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1MDA1OTMzNzc=,10/11/2019 2:35:00,Tim Vernum,CONTRIBUTOR,male,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWU1MDA1OTMzNzc=,10/14/2019 9:30:13,Yannick Welsch,CONTRIBUTOR,male,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWU1MDA1OTMzNzc=,10/16/2019 11:42:27,Yogesh Gaikwad,CONTRIBUTOR,male,Contributor,Yes,None,Notification,Yes
+MDU6SXNzdWU1MDA1OTMzNzc=,10/24/2019 9:38:14,Yannick Welsch,CONTRIBUTOR,male,Member,Yes,Documentation,Reminder,No
+MDU6SXNzdWU1MDA1OTMzNzc=,10/24/2019 12:39:15,Yogesh Gaikwad,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MDA1OTMzNzc=,10/30/2019 22:36:43,Yogesh Gaikwad,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MDA1OTMzNzc=,11/26/2019 15:27:30,Brandon Kobel,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MDc3NjEyNjk=,10/16/2019 10:27:58,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1MDc3NjEyNjk=,10/17/2019 8:31:57,Albert Zaharovits,CONTRIBUTOR,male,No,Yes,None,Notification,No
+MDU6SXNzdWU1MDc3NjEyNjk=,1/13/2020 14:19:49,Ioannis Kakavas,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MDg3NjE4Mjk=,10/17/2019 22:56:58,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MDMxNzAxMjM=,10/6/2019 22:29:42,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MDU4OTM4MjE=,10/15/2019 8:19:37,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MDYwMjk4MzM=,10/11/2019 19:50:39,Elastic Machine,COLLABORATOR,unknown,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWU1MDYwMjk4MzM=,10/12/2019 9:59:07,Ioannis Kakavas,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MDYwNDcxMTY=,1/9/2020 21:10:24, ,NONE,unknown,No,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MjE2NDMwNA==,1/5/2015 9:14:23,Norbert Klein,NONE,male,No,No,None,Ask / Request,No
+MDU6SXNzdWU1MjE2NDMwNA==,1/5/2015 10:33:05,Simon Spielmann,MEMBER,male,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWU1MjE2NDMwNA==,1/5/2015 11:40:32,Norbert Klein,NONE,male,Other,Yes,None,Elaboration,No
+MDU6SXNzdWU1MjE2NDMwNA==,1/7/2015 9:22:28,Jörg Hohwiller,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1MjE2NDMwNA==,1/7/2015 10:04:37,Norbert Klein,NONE,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1MjE2NDMwNA==,1/7/2015 10:21:52,Jörg Hohwiller,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1MjE2NDMwNA==,1/7/2015 10:43:46,Norbert Klein,NONE,male,Member,No,None,Elaboration,No
+MDU6SXNzdWU1MjE2NDMwNA==,1/12/2015 12:09:29,Jörg Hohwiller,MEMBER,male,Member,Yes,None,Elaboration,No
+MDU6SXNzdWU1MjE2NDMwNA==,1/12/2015 12:14:08,Jörg Hohwiller,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1MjE2NDMwNA==,1/14/2015 10:35:38,Jörg Hohwiller,MEMBER,male,No,Not applicable,None,Notification,No
+MDU6SXNzdWU1MjExMzI5OTU=,11/11/2019 19:19:30,Steve Kearns,CONTRIBUTOR,male,Other,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MjExMzI5OTU=,11/11/2019 22:32:56,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MjEyMTYwMzA=,11/11/2019 15:23:48,Elastic Machine,COLLABORATOR,unknown,Author of Issue,Yes,Documentation,Ask / Request,No
+MDU6SXNzdWU1MjEyMTYwMzA=,11/11/2019 17:44:49,Kaarina Tungseth,NONE,female,Contributor,No,Documentation,Ask / Request,No
+MDU6SXNzdWU1MjEyMTYwMzA=,11/11/2019 17:49:49,Robbie Ogburn,MEMBER,male,Other,Yes,Documentation,Elaboration,No
+MDU6SXNzdWU1MjEyMTYwMzA=,11/11/2019 22:09:38,Kaarina Tungseth,NONE,female,Other,Yes,None,Notification,No
+MDU6SXNzdWU1MjEyMTYwMzA=,11/11/2019 22:12:48,James Rodewig,CONTRIBUTOR,male,No,Not applicable,None,Notification,No
+MDU6SXNzdWU1MjEyMTYwMzA=,11/11/2019 22:13:13,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MjEyMTYwMzA=,11/11/2019 22:13:14,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MjEyMTYwMzA=,11/12/2019 1:20:17,Tim Vernum,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MjMxNzM1NDM=,11/15/2019 16:33:13, ,CONTRIBUTOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1MjMxNzM1NDM=,11/18/2019 15:10:36,Kristen Clarke,MEMBER,female,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1MjMxNzM1NDM=,11/20/2019 16:21:31,Kristen Clarke,MEMBER,female,No,Yes,None,Notification,No
+MDU6SXNzdWU1MjMxNzM1NDM=,12/2/2019 18:41:15,Kristen Clarke,MEMBER,female,No,Not applicable,None,Notification,No
+MDU6SXNzdWU1MjQyMDE2MjY=,11/18/2019 8:09:04,Michał Szynkiewicz,CONTRIBUTOR,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWU1MjQyMDE2MjY=,11/18/2019 8:10:15,Georgios Andrianakis,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1MjQyMDE2MjY=,11/18/2019 8:21:24,Michał Szynkiewicz,CONTRIBUTOR,unknown,Author of Issue,Not applicable,None,Other,No
+MDU6SXNzdWU1MjQyMDE2MjY=,11/18/2019 8:23:01,Georgios Andrianakis,CONTRIBUTOR,male,Contributor,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MjUwNjAxODI=,11/19/2019 14:57:59, ,CONTRIBUTOR,unknown,No,Not applicable,None,Notification,No
+MDU6SXNzdWU1MjUwNjAxODI=,1/27/2020 16:14:23, ,CONTRIBUTOR,unknown,No,Not applicable,None,Notification,Yes
+MDU6SXNzdWU1MjUwOTkxOTE=,11/20/2019 18:19:54,James Mulvey,NONE,male,Member,No,None,Ask / Request,No
+MDU6SXNzdWU1MjUwOTkxOTE=,12/6/2019 16:20:46,James Mulvey,NONE,male,Other,No,Documentation,Elaboration,No
+MDU6SXNzdWU1MjUwOTkxOTE=,1/7/2020 3:46:44,Atosa Khoddamhazrati,NONE,female,Other,No,Documentation,Elaboration,No
+MDU6SXNzdWU1MjUwOTkxOTE=,1/21/2020 16:34:23,Bruce Tiffany,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1MjUwOTkxOTE=,2/25/2020 13:41:04,Ewoud Werkman,NONE,male,No,Yes,Documentation,Notification,Yes
+MDU6SXNzdWU1MjUwOTkxOTE=,2/25/2020 15:12:35,Bruce Tiffany,MEMBER,male,No,Yes,None,Notification,No
+MDU6SXNzdWU1MjUwOTkxOTE=,3/11/2020 7:13:50,Ewoud Werkman,NONE,male,Other,Not applicable,None,Other,No
+MDU6SXNzdWU1MjUwOTkxOTE=,3/11/2020 11:38:01,Bruce Tiffany,MEMBER,male,No,Not applicable,None,Other,No
+MDU6SXNzdWU1MjUyODI3NTY=,3/3/2020 20:19:14,Kristi Peterson,CONTRIBUTOR,female,No,Not applicable,Fix,Notification,Yes
+MDU6SXNzdWU1MTc5NjIyNTQ=,11/5/2019 23:11:46,Stuart Douglas,MEMBER,male,No,No,None,Ask / Request,No
+MDU6SXNzdWU1MTc5NjIyNTQ=,11/6/2019 11:08:33, ,MEMBER,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1MTc5NjIyNTQ=,12/11/2019 15:01:27, ,NONE,unknown,No,Yes,None,Notification,No
+MDU6SXNzdWU1MTc5NjIyNTQ=,12/11/2019 16:27:00, ,NONE,unknown,No,Yes,Fix,Notification,No
+MDU6SXNzdWU1MTc5NjIyNTQ=,1/14/2020 15:30:47, ,NONE,unknown,No,Yes,None,Notification,No
+MDU6SXNzdWU1MTc5NjIyNTQ=,4/2/2020 12:29:39,Guillaume Smet,MEMBER,male,No,Yes,Fix,Notification,No
+MDU6SXNzdWU1MTc5NjIyNTQ=,4/2/2020 12:30:41, ,NONE,unknown,No,Yes,None,Notification,No
+MDU6SXNzdWU1MTc5NjIyNTQ=,4/9/2020 11:40:38, ,NONE,unknown,Member,Not applicable,None,Other,No
+MDU6SXNzdWU1MTE0MjY1NzI=,10/23/2019 16:50:17,Bruce Tiffany,MEMBER,male,Member,Yes,Documentation,Ask / Request,No
+MDU6SXNzdWU1MTE0MjY1NzI=,10/23/2019 17:59:28, ,NONE,unknown,Member,No,None,Ask / Request,No
+MDU6SXNzdWU1MTE0MjY1NzI=,10/23/2019 18:21:57,Bruce Tiffany,MEMBER,male,Member,No,None,Ask / Request,No
+MDU6SXNzdWU1MTE0MjY1NzI=,10/23/2019 19:57:31, ,NONE,unknown,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWU1MTE0MjY1NzI=,10/23/2019 20:33:59,Bruce Tiffany,MEMBER,male,Author of Issue,No,Documentation,Elaboration,No
+MDU6SXNzdWU1MTE0MjY1NzI=,10/24/2019 13:29:50, ,NONE,unknown,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWU1MTE0MjY1NzI=,3/9/2020 16:39:09,Bruce Tiffany,MEMBER,male,Author of Issue,Yes,None,Notification,No
+MDU6SXNzdWU1MTg0Mzk0ODA=,11/15/2019 11:10:04,Andy Coates,MEMBER,male,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWU1MTg0Mzk0ODA=,11/15/2019 13:12:09,Andy Coates,MEMBER,male,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWU1MTgwMzE5OTE=,11/7/2019 15:13:54,Elastic Machine,COLLABORATOR,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWU1MTgwMzE5OTE=,11/7/2019 15:13:55,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MTgwMzE5OTE=,1/16/2020 9:47:39, ,NONE,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MTgzOTczMzM=,11/8/2019 19:31:58,Elastic Machine,COLLABORATOR,unknown,No,No,Fix,Notification,No
+MDU6SXNzdWU1MTgzOTczMzM=,11/14/2019 18:03:53,André Letterer,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MTI3MTY4OTE=,1/3/2020 1:21:58,Tatu Saloranta,MEMBER,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1MTI3MTY4OTE=,1/9/2020 4:18:24,Tatu Saloranta,MEMBER,unknown,No,Yes,None,Notification,No
+MDU6SXNzdWU1MTI3MTY4OTE=,2/20/2020 13:26:27, ,NONE,unknown,No,No,CVE,Notification,No
+MDU6SXNzdWU1MTkyNTk1ODk=,11/15/2019 8:38:17,Thomas Kountis,CONTRIBUTOR,male,Contributor,Not applicable,None,Ask / Request,No
+MDU6SXNzdWU1MTkyNTk1ODk=,11/15/2019 8:45:19,Matko Medenjak,CONTRIBUTOR,male,Author of Issue,No,Documentation,Ask / Request,No
+MDU6SXNzdWU1MTkyNTk1ODk=,11/21/2019 10:08:15,Matko Medenjak,CONTRIBUTOR,male,No,No,None,Elaboration,No
+MDU6SXNzdWU1MTkyNTk1ODk=,11/21/2019 10:10:52,Thomas Kountis,CONTRIBUTOR,male,Contributor,No,None,Elaboration,No
+MDU6SXNzdWU1MTkyNTk1ODk=,11/21/2019 10:13:33,Matko Medenjak,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1MTkyNTk1ODk=,11/21/2019 10:30:46,Josef Cacek,CONTRIBUTOR,male,No,No,None,Other,No
+MDU6SXNzdWU1MTM1NDA0MTg=,11/13/2019 17:03:43, ,NONE,unknown,Author of Issue,Yes,None,Ask / Request,No
+MDU6SXNzdWU1MTM1NDA0MTg=,11/18/2019 21:05:25,Bruce Tiffany,MEMBER,male,Member,Yes,None,Ask / Request,No
+MDU6SXNzdWU1MTM1NDA0MTg=,11/25/2019 16:59:00,Bruce Tiffany,MEMBER,male,Member,Yes,Fix,Ask / Request,No
+MDU6SXNzdWU1MTM1NDA0MTg=,11/27/2019 9:14:51, ,NONE,unknown,Member,Yes,None,Ask / Request,No
+MDU6SXNzdWU1MTM1NDA0MTg=,11/27/2019 14:41:21,Bruce Tiffany,MEMBER,male,Member,Yes,None,Ask / Request,No
+MDU6SXNzdWU1MTM1NDA0MTg=,11/28/2019 14:12:06, ,NONE,unknown,Member,Yes,None,Ask / Request,No
+MDU6SXNzdWU1MTM1NDA0MTg=,12/3/2019 15:32:42,Bruce Tiffany,MEMBER,male,Member,Yes,None,Ask / Request,No
+MDU6SXNzdWU1MTM1NDA0MTg=,12/3/2019 16:23:11, ,NONE,unknown,Other,Yes,Fix,Elaboration,No
+MDU6SXNzdWU1MTM1NDA0MTg=,12/3/2019 16:50:49,Bruce Tiffany,MEMBER,male,Other,Yes,None,Elaboration,No
+MDU6SXNzdWU1MTM1NDA0MTg=,12/3/2019 18:01:17, ,NONE,unknown,Other,Yes,None,Elaboration,No
+MDU6SXNzdWU1MTM1NDA0MTg=,12/5/2019 14:40:44,Bruce Tiffany,MEMBER,male,Other,Yes,None,Elaboration,No
+MDU6SXNzdWU1MTM1NDA0MTg=,12/5/2019 20:09:48,Bruce Tiffany,MEMBER,male,Other,Yes,None,Elaboration,No
+MDU6SXNzdWU1MTM1NDA0MTg=,12/6/2019 9:13:41, ,NONE,unknown,Other,Yes,None,Elaboration,No
+MDU6SXNzdWU1MTM1NDA0MTg=,1/13/2020 11:05:04, ,NONE,unknown,Member,Yes,None,Elaboration,No
+MDU6SXNzdWU1MTM1NDA0MTg=,1/13/2020 14:48:08,Bruce Tiffany,MEMBER,male,No,Not applicable,None,Notification,No
+MDU6SXNzdWU1MTM1NDA0MTg=,1/14/2020 9:06:48, ,NONE,unknown,No,Yes,None,Notification,No
+MDU6SXNzdWU1MTM1NDA0MTg=,1/14/2020 14:49:40,Bruce Tiffany,MEMBER,male,Other,Yes,Fix,Notification,No
+MDU6SXNzdWU1MTM1NDA0MTg=,1/14/2020 15:23:22, ,NONE,unknown,No,Yes,Fix,Notification,No
+MDU6SXNzdWU1MTM1NDA0MTg=,1/14/2020 15:39:40,Bruce Tiffany,MEMBER,male,Member,Not applicable,None,Other,No
+MDU6SXNzdWU1MTM1NDA0MTg=,1/14/2020 16:12:35, ,NONE,unknown,Member,Not applicable,None,Other,No
+MDU6SXNzdWU1MTM3MDM1ODA=,10/29/2019 5:35:55,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MTU3MzA1NDg=,11/25/2019 17:09:59,Bruce Tiffany,MEMBER,male,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWU1Mzc0OTgwNQ==,1/11/2015 16:22:57,Bernd Ahlers,MEMBER,male,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWU1Mzc2MzYzNDQ=,1/7/2020 18:15:52,Bruce Tiffany,MEMBER,male,No,No,None,Elaboration,No
+MDU6SXNzdWU1Mzc2MzYzNDQ=,1/8/2020 18:54:56,Bruce Tiffany,MEMBER,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWU1Mzg2NTE2MzY=,12/16/2019 20:54:46,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MzM0MTgwMjg=,12/12/2019 17:51:21,Tomas Langer,MEMBER,male,Author of Issue,Yes,None,Ask / Request,No
+MDU6SXNzdWU1MzM0MTgwMjg=,12/12/2019 17:52:11,Tomas Langer,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1MzM0MTgwMjg=,12/13/2019 11:41:12,Tomas Langer,MEMBER,male,No,No,None,Elaboration,No
+MDU6SXNzdWU1MzM0MTgwMjg=,12/13/2019 11:41:41,Tomas Langer,MEMBER,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWU1MzM2Njg4MTE=,12/6/2019 0:06:10,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MzM2Njg4MTE=,12/6/2019 0:06:11,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MzQ4MDMwOTQ=,12/9/2019 9:37:02,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MzQ4MDMwOTQ=,12/9/2019 9:37:04,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1MzQxMjc3MDU=,12/7/2019 22:48:22,Georgios Andrianakis,CONTRIBUTOR,male,No,Yes,Documentation,Elaboration,Yes
+MDU6SXNzdWU1MzQxMjc3MDU=,12/9/2019 8:59:17, ,NONE,unknown,Author of Issue,Not applicable,None,Other,No
+MDU6SXNzdWU1MzQxMjc3MDU=,12/9/2019 9:00:25,Georgios Andrianakis,CONTRIBUTOR,male,Contributor,Not applicable,None,Other,No
+MDU6SXNzdWU1NDc5NTg2NTA=,1/10/2020 9:24:17,Elastic Machine,COLLABORATOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWU1NDc5NTg2NTA=,1/13/2020 3:31:52,Tim Vernum,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1NDg3MjQ0Ng==,1/20/2015 12:01:57,Claus Ibsen,MEMBER,male,No,Not applicable,None,Ask / Request,No
+MDU6SXNzdWU1NDg3MjQ0Ng==,1/20/2015 13:42:47, ,CONTRIBUTOR,unknown,No,No,None,Ask / Request,No
+MDU6SXNzdWU1NDg3MjQ0Ng==,1/20/2015 13:54:36,Claus Ibsen,MEMBER,male,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWU1NDg3MjQ0Ng==,1/20/2015 14:43:56,Claus Ibsen,MEMBER,male,No,Yes,None,Elaboration,Yes
+MDU6SXNzdWU1NDg3MjQ0Ng==,1/20/2015 14:49:35, ,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWU1NDg3MjQ0Ng==,1/20/2015 15:00:11,Claus Ibsen,MEMBER,male,No,Not applicable,None,Other,No
+MDU6SXNzdWU1NDIyMjc5OA==,1/13/2015 17:56:51,Jonathan Rochkind,CONTRIBUTOR,male,Member,Yes,None,Ask / Request,No
+MDU6SXNzdWU1NDIyMjc5OA==,1/13/2015 18:13:52,Mark Madsen,NONE,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1NDIyMjc5OA==,1/13/2015 20:04:40,Mike Dalessio,MEMBER,male,No,No,None,Elaboration,No
+MDU6SXNzdWU1NDIyMjc5OA==,1/13/2015 20:11:53,James Healy,CONTRIBUTOR,male,No,No,None,Elaboration,No
+MDU6SXNzdWU1NDIyMjc5OA==,1/13/2015 21:32:13,Jonathan Rochkind,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1NDIyMjc5OA==,1/14/2015 0:12:44,Terence Lee,NONE,male,Contributor,Yes,Documentation,Elaboration,No
+MDU6SXNzdWU1NDIyMjc5OA==,1/14/2015 0:26:12,Mike Dalessio,MEMBER,male,Other,Yes,None,Elaboration,No
+MDU6SXNzdWU1NDIyMjc5OA==,1/14/2015 0:35:31,Terence Lee,NONE,male,Other,Yes,None,Elaboration,No
+MDU6SXNzdWU1NDIyMjc5OA==,1/14/2015 2:20:41,Veillard Daniel,NONE,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1NDIyMjc5OA==,1/14/2015 2:52:45,Mike Dalessio,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1NDIyMjc5OA==,1/14/2015 3:39:09,Akinori MUSHA,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1NDIyMjc5OA==,1/15/2015 9:24:24, ,NONE,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1NDIyMjc5OA==,1/15/2015 10:00:38,Roman Pramberger,NONE,male,No,Not applicable,None,Notification,No
+MDU6SXNzdWU1NDIyMjc5OA==,1/15/2015 20:21:13,Jakub Jirutka,NONE,male,No,Not applicable,None,Other,No
+MDU6SXNzdWU1NDIyMjc5OA==,1/19/2015 23:36:59,Mike Dalessio,MEMBER,male,No,Not applicable,None,Other,No
+MDU6SXNzdWU1NDIyMjc5OA==,7/17/2015 21:44:09,Andy Brody,NONE,male,Other,Yes,None,Other,No
+MDU6SXNzdWU1NDIyMjc5OA==,3/21/2017 20:55:37,William Entriken,NONE,male,No,Yes,None,Other,No
+MDU6SXNzdWU1NDIyMjc5OA==,3/21/2017 21:07:58,William Entriken,NONE,male,Other,Yes,None,Other,No
+MDU6SXNzdWU1NDIyMjc5OA==,3/22/2017 15:33:38,Aaron Patterson,MEMBER,male,No,Not applicable,None,Other,No
+MDU6SXNzdWU1NDMzMjg1MDM=,12/29/2019 8:03:57,Keegan,NONE,male,No,No,Documentation,Ask / Request,No
+MDU6SXNzdWU1NDMzMjg1MDM=,12/29/2019 8:09:36,Keegan,NONE,male,No,No,None,Ask / Request,No
+MDU6SXNzdWU1NDMzMjg1MDM=,12/29/2019 9:30:53, ,NONE,unknown,Member,No,None,Ask / Request,No
+MDU6SXNzdWU1NDMzMjg1MDM=,12/29/2019 10:06:34,Keegan,NONE,male,No,No,None,Elaboration,No
+MDU6SXNzdWU1NDMzMjg1MDM=,12/29/2019 12:42:23,Richy HBM,CONTRIBUTOR,male,No,No,None,Elaboration,No
+MDU6SXNzdWU1NDMzMjg1MDM=,12/29/2019 21:53:39, ,NONE,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWU1NDMzMjg1MDM=,1/6/2020 0:33:19,Petar,NONE,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWU1NDMzMjg1MDM=,1/13/2020 8:44:50,Jakob Nixdorf,MEMBER,male,No,Not applicable,None,Other,No
+MDU6SXNzdWU1NjAyNjU3MjM=,2/5/2020 10:08:21,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Notification,No
+MDU6SXNzdWU1NjAyNjU3MjM=,2/5/2020 10:08:23,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1NjAyNjU3MjM=,2/5/2020 11:29:35,Ioannis Kakavas,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1NjE0NzIyOTM=,2/7/2020 7:40:06,Elastic Machine,COLLABORATOR,unknown,No,Yes,Fix,Notification,No
+MDU6SXNzdWU1NjE0NzIyOTM=,2/7/2020 17:53:44,Albert Zaharovits,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1NjQ5NjQyMDY=,2/18/2020 14:55:11,Ut Le,MEMBER,unknown,No,Not applicable,Fix,Notification,Yes
+MDU6SXNzdWU1NjQ5NjQyMDY=,2/19/2020 16:22:52,Ut Le,MEMBER,unknown,No,Not applicable,Documentation,Notification,No
+MDU6SXNzdWU1NjU5OTg3NTI=,2/17/2020 8:33:47,Martino Facchin,MEMBER,male,No,Yes,None,Elaboration,Yes
+MDU6SXNzdWU1NjU5OTg3NTI=,2/17/2020 12:47:03,Jack Christensen,CONTRIBUTOR,male,No,Not applicable,None,Other,No
+MDU6SXNzdWU1NjYxOTQ0NTc=,2/17/2020 15:11:53,Thomas Andraschko,MEMBER,male,Other,Yes,Fix,Ask / Request,No
+MDU6SXNzdWU1NjYxOTQ0NTc=,2/17/2020 15:35:37,Melloware,MEMBER,unknown,Member,No,None,Elaboration,No
+MDU6SXNzdWU1NjYxOTQ0NTc=,2/18/2020 11:14:36,Michele Mariotti,NONE,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1NjYxOTQ0NTc=,2/18/2020 12:20:55,Melloware,MEMBER,unknown,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWU1NjYxOTQ0NTc=,2/19/2020 18:31:20,Melloware,MEMBER,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWU1NTc1MjE5MjM=,1/30/2020 16:45:48,Peter Pramberger,NONE,male,Member,Not applicable,None,Ask / Request,No
+MDU6SXNzdWU1NTc1MjE5MjM=,1/30/2020 16:50:32,Peter Pramberger,NONE,male,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWU1NTc1MjE5MjM=,1/31/2020 8:27:53,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1NTc1MjE5MjM=,2/3/2020 5:10:19,Tim Vernum,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1NTc1MjE5MjM=,2/3/2020 7:53:35,Martijn van Groningen,MEMBER,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1NTEwOTc3ODA=,1/17/2020 9:45:37,Elastic Machine,COLLABORATOR,unknown,Author of Issue,Yes,None,Elaboration,No
+MDU6SXNzdWU1NTEwOTc3ODA=,1/17/2020 9:52:14,Ioannis Kakavas,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1NTEwOTc3ODA=,1/17/2020 10:54:31,Tim Vernum,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1NTEwOTc3ODA=,1/17/2020 13:35:39,Ioannis Kakavas,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1NTEwOTc3ODA=,2/13/2020 23:17:10,Tim Vernum,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1NTg4MTM2MDc=,2/3/2020 12:13:00,Pedro Igor,CONTRIBUTOR,male,No,No,None,Ask / Request,No
+MDU6SXNzdWU1NTg4MTM2MDc=,2/3/2020 12:55:02, ,MEMBER,unknown,Contributor,Not applicable,None,Ask / Request,No
+MDU6SXNzdWU1NTg4MTM2MDc=,2/3/2020 13:01:13,Pedro Igor,CONTRIBUTOR,male,Author of Issue,Yes,None,Elaboration,No
+MDU6SXNzdWU1NTg4MTM2MDc=,2/3/2020 13:13:20, ,MEMBER,unknown,Member,Yes,None,Elaboration,No
+MDU6SXNzdWU1NTg4MTM2MDc=,2/3/2020 13:26:04,Pedro Igor,CONTRIBUTOR,male,Member,No,None,Elaboration,No
+MDU6SXNzdWU1NTg4MTM2MDc=,2/3/2020 13:40:33, ,MEMBER,unknown,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWU1NTg4MTM2MDc=,2/3/2020 13:48:03,Pedro Igor,CONTRIBUTOR,male,Contributor,No,None,Elaboration,No
+MDU6SXNzdWU1NTg4MTM2MDc=,2/3/2020 14:06:24,Pedro Igor,CONTRIBUTOR,male,No,Not applicable,None,Other,No
+MDU6SXNzdWU1NTg4MTM2MDc=,2/3/2020 14:18:29, ,MEMBER,unknown,Contributor,Not applicable,None,Other,No
+MDU6SXNzdWU1NTg4ODI4ODk=,2/3/2020 6:58:33,Elastic Machine,COLLABORATOR,unknown,No,No,Fix,Elaboration,No
+MDU6SXNzdWU1NTg4ODI4ODk=,2/3/2020 6:58:35,Elastic Machine,COLLABORATOR,unknown,Contributor,Yes,Documentation,Elaboration,No
+MDU6SXNzdWU1NTg4ODI4ODk=,3/18/2020 21:05:34,Yang Wang,CONTRIBUTOR,unknown,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWU1NTg4ODI4ODk=,3/24/2020 6:35:03,Yang Wang,CONTRIBUTOR,unknown,No,Yes,None,Notification,No
+MDU6SXNzdWU1NTg4ODI4ODk=,3/24/2020 9:48:34,Yang Wang,CONTRIBUTOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1NTg4ODI4ODk=,3/25/2020 14:01:30,Albert Zaharovits,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1NTMxNDQ2NDk=,1/21/2020 21:38:01,YK Chang,MEMBER,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1NTMxNDQ2NDk=,1/23/2020 19:40:29,YK Chang,MEMBER,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1NTMxNDQ2NDk=,1/28/2020 15:53:22,Bruce Tiffany,MEMBER,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1NTQ3ODc5ODU=,1/24/2020 15:05:59,Elastic Machine,COLLABORATOR,unknown,No,No,None,Ask / Request,No
+MDU6SXNzdWU1NTQ3ODc5ODU=,3/24/2020 19:30:09,Paurav Munshi,NONE,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1NzAwMzk2ODU=,2/24/2020 18:26:18,Bruce Tiffany,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1NzAwMzk2ODU=,2/24/2020 21:24:42,Bruce Tiffany,MEMBER,male,No,Yes,Fix,Notification,No
+MDU6SXNzdWU1NzAwMzk2ODU=,3/20/2020 16:01:18,Bruce Tiffany,MEMBER,male,Contributor,Not applicable,None,Reminder,No
+MDU6SXNzdWU1NzkwNjU4NzE=,3/11/2020 9:15:12,Yijie Shen,CONTRIBUTOR,unknown,Member,Not applicable,None,Ask / Request,No
+MDU6SXNzdWU1NzkwNjU4NzE=,3/11/2020 9:50:23, ,NONE,unknown,No,Not applicable,None,Ask / Request,No
+MDU6SXNzdWU1NzkwNjU4NzE=,3/11/2020 12:00:52, ,NONE,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWU1NzkwNjU4NzE=,3/18/2020 14:51:28,Jia Zhai,MEMBER,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1NzkwNjU4NzE=,3/29/2020 10:27:53,Jia Zhai,MEMBER,unknown,Author of Issue,Yes,None,Notification,No
+MDU6SXNzdWU1NzkwNjU4NzE=,3/31/2020 9:25:35, ,NONE,unknown,Author of Issue,Yes,Documentation,Notification,Yes
+MDU6SXNzdWU1NzkwNjU4NzE=,4/6/2020 1:26:46,Jia Zhai,MEMBER,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWU1NzU0NzU3OTM=,3/9/2020 9:59:06,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWU1NzY1OTI2MDg=,4/3/2020 19:39:07, ,CONTRIBUTOR,unknown,No,Not applicable,Fix,Notification,No
+MDU6SXNzdWU1ODg3NTc1OA==,2/25/2015 9:54:03,Robin McCorkell,MEMBER,male,No,No,None,Ask / Request,No
+MDU6SXNzdWU1ODg3NTc1OA==,2/25/2015 10:07:34,Daniel Hansson,MEMBER,male,Member,No,None,Ask / Request,No
+MDU6SXNzdWU1ODg3NTc1OA==,2/25/2015 10:15:40,Duarte Velez Grilo,NONE,male,No,No,None,Ask / Request,No
+MDU6SXNzdWU1ODg3NTc1OA==,2/25/2015 10:28:40, ,CONTRIBUTOR,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWU1ODg3NTc1OA==,2/25/2015 10:30:08, ,NONE,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWU1ODg3NTc1OA==,2/25/2015 12:55:07, ,NONE,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWU1ODg3NTc1OA==,2/25/2015 13:13:20,Jan-Christoph Borchardt,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1ODg3NTc1OA==,2/25/2015 16:28:30,Jack Smith,NONE,male,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWU1ODg3NTc1OA==,2/25/2015 16:34:06,Duarte Velez Grilo,NONE,male,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWU1ODg3NTc1OA==,2/25/2015 17:17:38,Jorge Antonio Díaz-Benito Soriano,MEMBER,male,No,No,None,Elaboration,No
+MDU6SXNzdWU1ODg3NTc1OA==,2/25/2015 17:46:11,Tobias Kaminsky,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1ODg3NTc1OA==,2/25/2015 19:44:23, ,NONE,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWU1ODg3NTc1OA==,2/25/2015 22:45:04,Marcello Steiner,CONTRIBUTOR,male,No,No,None,Elaboration,No
+MDU6SXNzdWU1ODg3NTc1OA==,2/26/2015 13:53:17,Jan-Christoph Borchardt,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1ODg3NTc1OA==,2/26/2015 20:10:48, ,NONE,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWU1ODg3NTc1OA==,4/8/2015 11:29:32,David A. Velasco,MEMBER,male,No,Yes,None,Notification,No
+MDU6SXNzdWU1ODMxMTk0MjE=,3/18/2020 20:45:02,Bruce Tiffany,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1ODQ1NzA1MDc=,3/19/2020 17:17:36,Ladislav Thon,CONTRIBUTOR,male,Member,No,None,Ask / Request,No
+MDU6SXNzdWU1ODQ1NzA1MDc=,3/20/2020 0:35:11,Stuart Douglas,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU1ODQ1NzA1MDc=,3/23/2020 12:01:27, ,MEMBER,unknown,Author of Issue,Yes,None,Elaboration,No
+MDU6SXNzdWU1ODQ1NzA1MDc=,3/23/2020 13:04:08,Ladislav Thon,CONTRIBUTOR,male,Member,Yes,None,Notification,Yes
+MDU6SXNzdWU1ODQ1NzA1MDc=,3/23/2020 13:43:49,Ladislav Thon,CONTRIBUTOR,male,No,Not applicable,Fix,Notification,No
+MDU6SXNzdWU2NDMyNTQ3OA==,4/1/2015 7:45:30,Paul Brown,NONE,male,No,No,None,Ask / Request,No
+MDU6SXNzdWU2NDMyNTQ3OA==,4/3/2015 21:28:40,Deepu Mohan Puthrote,NONE,male,No,Yes,Fix,Ask / Request,Yes
+MDU6SXNzdWU2NDMyNTQ3OA==,4/14/2015 14:44:45,Michael Piefel,NONE,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU2NDMyNTQ3OA==,4/21/2015 14:33:15,Deepu Mohan Puthrote,NONE,male,No,Not applicable,Documentation,Other,No
+MDU6SXNzdWU4MTUxNzk2NQ==,5/28/2015 6:30:40,Orestis Tsakiridis,CONTRIBUTOR,male,Contributor,Yes,None,Ask / Request,No
+MDU6SXNzdWU4MTUxNzk2NQ==,8/8/2015 3:37:13,Guilherme Humberto Jansen,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU4MTUxNzk2NQ==,8/17/2015 12:37:59,Orestis Tsakiridis,CONTRIBUTOR,male,Author of Issue,Yes,None,Elaboration,No
+MDU6SXNzdWU4MTUxNzk2NQ==,5/16/2016 16:27:06,Guilherme Humberto Jansen,CONTRIBUTOR,male,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWU4NjIzNDg2NA==,6/8/2015 16:06:24,Kyle Braak,CONTRIBUTOR,male,No,No,Fix,Elaboration,No
+MDU6SXNzdWU4NjIzNDg2NA==,6/29/2015 9:55:20,Kyle Braak,CONTRIBUTOR,male,No,No,Fix,Elaboration,No
+MDU6SXNzdWU4NjIzNDg2NA==,8/19/2015 10:20:20,Kyle Braak,CONTRIBUTOR,male,No,No,Fix,Elaboration,No
+MDU6SXNzdWU4ODM3NjA0Mg==,6/15/2015 9:56:08, ,CONTRIBUTOR,unknown,No,Yes,None,Instruction,No
+MDU6SXNzdWU4ODM3NjA0Mg==,7/11/2017 13:55:44,Florian Kleedorfer,MEMBER,male,No,Not applicable,None,Notification,No
+MDU6SXNzdWU4OTkzMjA4NQ==,6/21/2015 16:39:22,Google Code Exporter,NONE,male,Author of Issue,Yes,None,Instruction,No
+MDU6SXNzdWU4OTkzMjA4NQ==,6/21/2015 16:39:22,Google Code Exporter,NONE,male,No,Not applicable,None,Notification,No
+MDU6SXNzdWU4OTkzMjA4NQ==,6/21/2015 16:39:22,Google Code Exporter,NONE,male,No,Not applicable,None,Other,No
+MDU6SXNzdWU5MjgyNjc3MA==,7/3/2015 9:00:50,Jörg Hohwiller,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU5MjgyNjc3MA==,7/6/2015 7:04:43, ,MEMBER,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWU5MjgyNjc3MA==,7/6/2015 7:10:33,Krzysztof Sobkowiak,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWU5MjgyNjc3MA==,7/14/2015 12:31:47,Jörg Hohwiller,MEMBER,male,No,Not applicable,Fix,Notification,Yes
+MDU6SXNzdWU5MjgyNjc3MA==,7/15/2015 12:08:03,Jörg Hohwiller,MEMBER,male,No,Not applicable,Documentation,Other,No
+MDU6SXNzdWU5MjgyNjc3MA==,7/15/2015 12:29:02,Jörg Hohwiller,MEMBER,male,No,Not applicable,Documentation,Other,No
+MDU6SXNzdWU5MjgyNjc3MA==,7/15/2015 12:46:53,Jörg Hohwiller,MEMBER,male,No,Not applicable,Documentation,Other,No
+MDU6SXNzdWU5MjgyNjc3MA==,7/16/2015 7:11:39,Jörg Hohwiller,MEMBER,male,No,Not applicable,Documentation,Other,No
+MDU6SXNzdWU5MjgyNjc3MA==,7/16/2015 15:32:13,Jörg Hohwiller,MEMBER,male,No,Not applicable,Documentation,Other,No
+MDU6SXNzdWU5MjgyNjc3MA==,9/20/2018 6:41:11,Jörg Hohwiller,MEMBER,male,No,Not applicable,Documentation,Other,No
+MDU6SXNzdWUxMDA0MzgxMTY=,8/12/2015 0:02:49,BigBlueButton Issue Importer,NONE,unknown,No,Yes,Documentation,Notification,Yes
+MDU6SXNzdWUxMDA0MzgxMTY=,8/12/2015 0:02:50,BigBlueButton Issue Importer,NONE,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUxMDA0MzgxMTY=,8/12/2015 0:02:50,BigBlueButton Issue Importer,NONE,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUxMDA0MzgxMTY=,8/12/2015 0:02:51,BigBlueButton Issue Importer,NONE,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUxMDA0MzgxMTY=,8/12/2015 0:02:51,BigBlueButton Issue Importer,NONE,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUxMDA0MzgxMTY=,5/6/2018 12:41:29,Fred Dixon,MEMBER,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUxMDA0ODc3NTQ=,8/12/2015 7:51:36,BigBlueButton Issue Importer,NONE,unknown,No,No,None,Ask / Request,No
+MDU6SXNzdWUxMDA0ODc3NTQ=,8/12/2015 7:51:37,BigBlueButton Issue Importer,NONE,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUxMDA0ODc3NTQ=,8/12/2015 7:51:37,BigBlueButton Issue Importer,NONE,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUxMDA0ODc3NTQ=,8/12/2015 7:51:38,BigBlueButton Issue Importer,NONE,unknown,No,No,None,Notification,No
+MDU6SXNzdWUxMDA0ODc3NTQ=,8/12/2015 7:51:39,BigBlueButton Issue Importer,NONE,unknown,No,Not applicable,None,Notification,No
+MDU6SXNzdWUxMDA0ODc3NTQ=,8/12/2015 7:51:39,BigBlueButton Issue Importer,NONE,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUxMDA0ODc3NTQ=,8/12/2015 7:51:40,BigBlueButton Issue Importer,NONE,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUxMDA0ODc3NTQ=,8/12/2015 7:51:40,BigBlueButton Issue Importer,NONE,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUxMDA0ODc3NTQ=,8/12/2015 7:51:41,BigBlueButton Issue Importer,NONE,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUxMDA0ODc3NTQ=,8/12/2015 7:51:42,BigBlueButton Issue Importer,NONE,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUxMDA0ODc3NTQ=,8/12/2015 7:51:42,BigBlueButton Issue Importer,NONE,unknown,No,No,Documentation,Other,No
+MDU6SXNzdWUxMDA0ODc3NTQ=,8/12/2015 7:51:43,BigBlueButton Issue Importer,NONE,unknown,No,Yes,Documentation,Reminder,No
+MDU6SXNzdWUxMDc0MTU4MzM=,9/20/2015 20:26:49,Fred Dixon,MEMBER,male,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWUxMDM3NTIwMDc=,9/26/2016 8:38:49,Jean Deruelle,MEMBER,male,No,Not applicable,Documentation,Other,No
+MDU6SXNzdWUxMjE1OTQ0Njc=,12/26/2015 13:27:16, ,NONE,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUxMjE1OTQ0Njc=,12/27/2015 12:03:31,Sebastian Stenzel,MEMBER,male,Other,Yes,None,Elaboration,No
+MDU6SXNzdWUxMjE1OTQ0Njc=,12/29/2015 3:39:12, ,NONE,unknown,No,No,Fix,Elaboration,No
+MDU6SXNzdWUxMjE1OTQ0Njc=,12/29/2015 6:40:44,Sebastian Stenzel,MEMBER,male,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWUxMjE1OTQ0Njc=,2/26/2016 10:59:43,Sebastian Stenzel,MEMBER,male,Other,Not applicable,None,Other,No
+MDU6SXNzdWUxMjE1OTQ0Njc=,2/26/2016 11:57:30,Markus Kreusch,CONTRIBUTOR,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUxMjg1Mzk4MDU=,1/28/2016 21:28:45,Morris Swertz,MEMBER,male,No,Yes,None,Notification,No
+MDU6SXNzdWUxMjg1NDQwMTU=,7/2/2017 11:59:33,Morris Swertz,MEMBER,male,No,No,None,Ask / Request,No
+MDU6SXNzdWUxMjg1NDQwMTU=,7/2/2017 12:28:38,Fleur Kelpin,MEMBER,female,Member,Yes,None,Elaboration,No
+MDU6SXNzdWUxMjg1NDQwMTU=,7/4/2017 14:32:23,Mark de Haan,CONTRIBUTOR,male,Contributor,No,None,Reminder,No
+MDU6SXNzdWUxMjQ2ODEzNDI=,1/4/2016 8:39:51,Sebastian Stenzel,MEMBER,male,Author of Issue,Yes,Fix,Elaboration,No
+MDU6SXNzdWUxMjQ2ODEzNDI=,1/5/2016 0:01:53, ,NONE,unknown,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUxMjQ2ODEzNDI=,1/5/2016 9:20:28,Sebastian Stenzel,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUxMjQ2ODEzNDI=,1/5/2016 16:10:07, ,NONE,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUxMjQ2ODEzNDI=,1/5/2016 16:41:51,Sebastian Stenzel,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUxMjQ2ODEzNDI=,1/5/2016 16:56:10, ,NONE,unknown,No,Not applicable,Documentation,Notification,No
+MDU6SXNzdWUxMjQ2ODEzNDI=,1/5/2016 16:59:12, ,NONE,unknown,No,Yes,None,Other,No
+MDU6SXNzdWUxMjQ2ODEzNDI=,1/5/2016 17:00:40,Sebastian Stenzel,MEMBER,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUxMjU0MDk3MDE=,2/11/2016 13:30:07,Bernd Ahlers,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUxMjU0MDk3MDE=,5/2/2016 9:41:04,Kay Roepke,MEMBER,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUxMjY2NTcyMzM=,5/11/2017 2:39:56,Yamel Senih,MEMBER,unknown,Author of Issue,Yes,Fix,Ask / Request,No
+MDU6SXNzdWUxMjY2NTcyMzM=,5/23/2017 3:24:41,Yamel Senih,MEMBER,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUxMjYxNDMxMjQ=,1/12/2016 14:02:50,Kyle Braak,CONTRIBUTOR,male,No,No,Documentation,Elaboration,No
+MDU6SXNzdWUxMjYxNDMxMjQ=,5/3/2016 17:31:41, ,NONE,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUxMjYxNDMxMjQ=,7/22/2016 20:50:22,Tomislav Urban,NONE,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUxMjYxNDMxMjQ=,3/11/2019 14:08:46,Derek Broughton,NONE,male,Author of Issue,Yes,None,Reminder,No
+MDU6SXNzdWUxMTE4MTc4NTM=,10/23/2017 16:24:49,Dominik Schürmann,MEMBER,male,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWUxMTUyNzU5MDA=,12/11/2015 17:19:55,Valentine Gogichashvili,MEMBER,unknown,No,No,None,Ask / Request,No
+MDU6SXNzdWUxMzc1NzYzMTI=,1/22/2019 15:59:24,Wilson Kurniawan,MEMBER,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUxMzgxODk4NDM=,3/3/2016 15:01:48,Henning Gerhardt,MEMBER,male,Contributor,No,None,Ask / Request,No
+MDU6SXNzdWUxMzgxODk4NDM=,12/9/2016 14:43:44,Stefan Weil,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUxMzgxODk4NDM=,1/31/2017 14:39:10,Matthias Ronge,CONTRIBUTOR,male,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUxMzgxODk4NDM=,12/5/2017 7:40:21,Matthias Ronge,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUxMzgxODk4NDM=,9/19/2018 10:36:15,Frank Sachsenheim,NONE,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUxMzgxODk4NDM=,9/19/2018 10:45:43,Matthias Ronge,CONTRIBUTOR,male,No,Yes,None,Notification,No
+MDU6SXNzdWUxNDc2OTI2MTM=,4/18/2016 9:31:26,Kay Roepke,MEMBER,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUxNDc3NTU2NzI=,4/12/2016 13:50:25,Jörg Hohwiller,MEMBER,male,No,Yes,None,Notification,No
+MDU6SXNzdWUxNDk1MDQxNDA=,6/9/2016 20:12:42,Jonathan Gamba,CONTRIBUTOR,male,Author of Issue,Yes,None,Notification,Yes
+MDU6SXNzdWUxNjcyMTEzMTE=,7/24/2019 0:34:22,Leo Wandersleb,COLLABORATOR,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUxNjEwNTc4MzE=,6/19/2016 17:57:44,Dilshat,MEMBER,male,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWUxNjEwNTc4MzE=,6/21/2016 8:31:00,Larik,CONTRIBUTOR,unknown,No,Yes,None,Notification,No
+MDU6SXNzdWUxNjk2Njc3Mzg=,8/19/2016 18:43:07,Cameron Mace,CONTRIBUTOR,male,No,No,None,Ask / Request,No
+MDU6SXNzdWUxNjk2Njc3Mzg=,3/19/2018 8:48:30, ,NONE,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUxNjk2Njc3Mzg=,3/19/2018 13:08:27,Cameron Mace,CONTRIBUTOR,male,No,Yes,Fix,Notification,No
+MDU6SXNzdWUxNjkwNjcwNzk=,8/3/2016 15:26:10,Jörg Hohwiller,MEMBER,male,No,Yes,None,Elaboration,Yes
+MDU6SXNzdWUxNjkwNjcwNzk=,10/10/2016 17:59:45,Jörg Hohwiller,MEMBER,male,No,Not applicable,None,Notification,No
+MDU6SXNzdWUxNjYwMzYwNA==,8/20/2013 4:57:51,Akinori MUSHA,MEMBER,male,No,Yes,Fix,Ask / Request,No
+MDU6SXNzdWUxNjYwMzYwNA==,8/20/2013 18:24:01,richö butts,NONE,unknown,No,No,None,Ask / Request,No
+MDU6SXNzdWUxNjYwMzYwNA==,8/20/2013 18:33:48,Akinori MUSHA,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUxNjYwMzYwNA==,8/20/2013 18:44:12,richö butts,NONE,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUxNjYwMzYwNA==,8/20/2013 18:44:55,richö butts,NONE,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUxNjYwMzYwNA==,8/21/2013 1:09:49,Akinori MUSHA,MEMBER,male,Other,Yes,None,Elaboration,No
+MDU6SXNzdWUxNjYwMzYwNA==,8/21/2013 1:58:12, ,NONE,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUxNjYwMzYwNA==,8/21/2013 9:00:28,Akinori MUSHA,MEMBER,male,No,Yes,Fix,Elaboration,No
+MDU6SXNzdWUxNjYwMzYwNA==,8/21/2013 9:21:07, ,NONE,unknown,No,Yes,Fix,Elaboration,No
+MDU6SXNzdWUxNjYwMzYwNA==,9/27/2013 20:08:23,"Carlo ""zED"" Caputo",NONE,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUxNjYwMzYwNA==,9/29/2013 13:07:46,Akinori MUSHA,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUxNjYwMzYwNA==,9/29/2013 15:52:45,"Carlo ""zED"" Caputo",NONE,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUxNjYwMzYwNA==,11/1/2013 17:25:38,Nathan,NONE,male,No,Yes,None,Instruction,No
+MDU6SXNzdWUxNjYwMzYwNA==,11/7/2013 7:07:25,richö butts,NONE,unknown,No,Yes,None,Instruction,No
+MDU6SXNzdWUxNjYwMzYwNA==,11/20/2013 17:04:10,James B. Byrne,NONE,male,No,Not applicable,Fix,Instruction,No
+MDU6SXNzdWUxNjYwMzYwNA==,11/21/2013 6:09:52,Akinori MUSHA,MEMBER,male,No,Yes,None,Notification,No
+MDU6SXNzdWUxNjYwMzYwNA==,1/13/2015 17:36:03,Mike Dalessio,MEMBER,male,Other,Yes,Fix,Notification,Yes
+MDU6SXNzdWUxNjYwMzYwNA==,2/4/2015 17:47:27,Mike Dalessio,MEMBER,male,No,Yes,Documentation,Notification,No
+MDU6SXNzdWUxNjYwMzYwNA==,2/4/2015 17:50:29,Mike Dalessio,MEMBER,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUxNjYwMzYwNA==,3/21/2017 20:52:20,William Entriken,NONE,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUxNjYwMzYwNA==,3/24/2017 17:11:35,Mike Dalessio,MEMBER,male,No,No,None,Reminder,No
+MDU6SXNzdWUxNTg2MjE0Njc=,6/6/2016 13:30:17,Andreas Gies,CONTRIBUTOR,male,Contributor,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUxNTg2MjE0Njc=,6/7/2016 1:16:49,Tadayoshi Sato,MEMBER,male,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUxNTg2MjE0Njc=,6/10/2016 3:11:15,Tadayoshi Sato,MEMBER,male,No,Not applicable,Documentation,Other,No
+MDU6SXNzdWUxNTIyMzI5MTI=,5/1/2016 15:57:13,Dominik Schürmann,MEMBER,male,No,No,None,Elaboration,No
+MDU6SXNzdWUxNTIyMzI5MTI=,5/1/2016 16:03:44,Nikita Mikhailov,MEMBER,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUxNTIyMzI5MTI=,5/1/2016 16:06:08,Nikita Mikhailov,MEMBER,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUxNTM3Mjc0MDk=,5/10/2016 5:44:29,NK-The-Crazy,CONTRIBUTOR,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUxNTMzNzk1OTc=,3/3/2017 2:28:45,Dilshat,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUxNTMzNzk1OTc=,3/3/2017 2:36:04,Dilshat,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUxNTMzNzk1OTc=,9/26/2017 13:02:28,Dilshat,MEMBER,male,No,Yes,None,Notification,No
+MDU6SXNzdWUxNTYwMzE4ODQ=,5/31/2016 13:01:39,Orestis Tsakiridis,CONTRIBUTOR,male,Author of Issue,No,None,Elaboration,No
+MDU6SXNzdWUxNzg3Njk2MQ==,3/27/2014 8:56:56,Richard Kettelerij,NONE,male,Other,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUxNzg3Njk2MQ==,3/27/2014 12:28:28,Stan Lewis,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUxNzg3Njk2MQ==,3/27/2014 12:51:01,Stan Lewis,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUxNzg3Njk2MQ==,5/19/2014 18:08:21,Stan Lewis,MEMBER,male,No,Yes,None,Notification,No
+MDU6SXNzdWUxNzg3Njk2MQ==,8/27/2014 20:39:28,Stan Lewis,MEMBER,male,No,Yes,None,Notification,No
+MDU6SXNzdWUxNzg3Njk2MQ==,8/28/2014 6:29:29,Paolo Antinori,MEMBER,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUxNzg3Njk2MQ==,11/14/2014 16:19:12,Stan Lewis,MEMBER,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUxNzM0NDU4NQ==,7/29/2013 15:29:00,David Bosschaert,MEMBER,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUxNzM0NDU4NQ==,7/29/2013 16:12:39,David Bosschaert,MEMBER,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUxNzUxNzUzNDA=,9/6/2016 7:17:09,Andy Scherzinger,MEMBER,male,Member,Yes,None,Ask / Request,No
+MDU6SXNzdWUxNzUxNzUzNDA=,9/6/2016 16:54:17,David A. Velasco,MEMBER,male,Member,Yes,None,Ask / Request,No
+MDU6SXNzdWUxNzUxNzUzNDA=,9/6/2016 19:19:24,glirhuin,NONE,male,Member,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUxNzUxNzUzNDA=,9/7/2016 6:15:22,Vincent Petry,MEMBER,male,Member,No,Documentation,Elaboration,No
+MDU6SXNzdWUxNzUxNzUzNDA=,9/9/2016 20:15:23,Vlad S,NONE,male,No,No,None,Elaboration,No
+MDU6SXNzdWUxNzUxNzUzNDA=,9/12/2016 8:52:45,David A. Velasco,MEMBER,male,Other,No,None,Elaboration,No
+MDU6SXNzdWUxNzUxNzUzNDA=,9/12/2016 8:55:07,Vincent Petry,MEMBER,male,Author of Issue,No,None,Elaboration,No
+MDU6SXNzdWUxNzUxNzUzNDA=,9/12/2016 8:55:09,David A. Velasco,MEMBER,male,Member,No,None,Elaboration,No
+MDU6SXNzdWUxNzUxNzUzNDA=,9/12/2016 8:56:29,David A. Velasco,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUxNzUxNzUzNDA=,9/21/2016 10:53:57,jesko,NONE,male,Contributor,No,None,Elaboration,No
+MDU6SXNzdWUxNzUxNzUzNDA=,10/14/2016 11:53:14, ,NONE,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUxNzUxNzUzNDA=,10/24/2016 8:20:47,David A. Velasco,MEMBER,male,Member,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUxNzUxNzUzNDA=,1/9/2017 11:24:47,Michael Stingl,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUxNzUxNzUzNDA=,2/28/2017 21:40:19, ,NONE,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUxNzUxNzUzNDA=,3/14/2017 16:32:46,David A. Velasco,MEMBER,male,Other,Yes,None,Instruction,No
+MDU6SXNzdWUxNzUxNzUzNDA=,7/9/2017 9:12:27, ,NONE,unknown,Contributor,Yes,None,Instruction,No
+MDU6SXNzdWUxNzUxNzUzNDA=,8/4/2017 4:15:45,Arjen Lentz,NONE,male,No,Not applicable,Documentation,Notification,No
+MDU6SXNzdWUxNzUxNzUzNDA=,10/17/2017 13:14:42, ,NONE,unknown,No,Not applicable,Documentation,Notification,No
+MDU6SXNzdWUxNzUxNzUzNDA=,1/17/2018 8:36:04, ,NONE,unknown,No,Yes,None,Other,No
+MDU6SXNzdWUxNzUxNzUzNDA=,2/7/2018 6:13:47,Harshit Bansal,CONTRIBUTOR,male,No,No,None,Other,No
+MDU6SXNzdWUxNzUxNzUzNDA=,2/7/2018 12:52:41,Michael Stingl,CONTRIBUTOR,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUxNzUxNzUzNDA=,2/7/2018 14:10:01, ,NONE,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUxNzUxNzUzNDA=,6/12/2018 21:38:17,PaulH,NONE,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUxNzUxNzUzNDA=,6/13/2018 6:48:24,Christian Schabesberger,CONTRIBUTOR,male,No,No,None,Reminder,No
+MDU6SXNzdWUxNzUxNzUzNDA=,1/23/2019 16:23:59,David González Verdugo,COLLABORATOR,male,No,No,None,Reminder,No
+MDU6SXNzdWUxNzUxNzUzNDA=,1/23/2019 16:30:31,Vincent Petry,MEMBER,male,No,Not applicable,None,Reminder,No
+MDU6SXNzdWUxNzUxNzUzNDA=,1/23/2019 19:18:03,Michael Stingl,CONTRIBUTOR,male,No,No,None,Reminder,No
+MDU6SXNzdWUxNzUxNzUzNDA=,3/7/2019 10:53:37,Michael Stingl,CONTRIBUTOR,male,No,No,None,Reminder,No
+MDU6SXNzdWUxODEzOTA4MDI=,10/17/2016 8:00:02,Jean Deruelle,MEMBER,male,No,Not applicable,Documentation,Notification,No
+MDU6SXNzdWUxODEzOTA4MDI=,3/8/2017 14:55:32, ,COLLABORATOR,unknown,No,Not applicable,Fix,Notification,No
+MDU6SXNzdWUxODEzOTA4MDI=,3/8/2017 15:08:36, ,COLLABORATOR,unknown,No,Not applicable,Documentation,Notification,No
+MDU6SXNzdWUxODU2MjAyMjY=,1/5/2017 21:32:11,Slava Semushin,OWNER,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUxOTE5NTc5MTU=,9/20/2017 7:28:57, ,CONTRIBUTOR,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUxOTE5NTc5MTU=,9/20/2017 7:32:04,Fleur Kelpin,MEMBER,female,No,No,None,Other,No
+MDU6SXNzdWUxOTE5NTU2Nzk=,11/21/2017 15:58:44,Mark de Haan,CONTRIBUTOR,male,Author of Issue,No,None,Ask / Request,No
+MDU6SXNzdWUxOTE5NTU2Nzk=,11/22/2017 9:51:03, ,CONTRIBUTOR,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUyMDI1ODQ4MTQ=,1/23/2017 17:38:08,Misha Brukman,MEMBER,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUyMDQ1NzM1NTg=,2/1/2017 12:49:00,Dilshat,MEMBER,male,No,No,None,Elaboration,No
+MDU6SXNzdWUyMDQ1NzM1NTg=,2/6/2017 8:31:51,Dilshat,MEMBER,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUyMjcxNzQxNg==,5/12/2014 9:53:47,Erwin,CONTRIBUTOR,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUyMjk2MjA0OTY=,5/27/2017 18:39:59,Yorgos Saslis,CONTRIBUTOR,male,Contributor,No,None,Ask / Request,No
+MDU6SXNzdWUyMjk2MjA0OTY=,5/28/2017 20:11:45,George Vagenas,COLLABORATOR,male,Author of Issue,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUyMjk2MjA0OTY=,5/29/2017 12:08:46, ,COLLABORATOR,unknown,Contributor,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUyMjk2MjA0OTY=,5/29/2017 20:16:41,Yorgos Saslis,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUyMjk2MjA0OTY=,5/29/2017 20:56:43, ,COLLABORATOR,unknown,Author of Issue,Yes,None,Elaboration,No
+MDU6SXNzdWUyMjk2MjA0OTY=,5/31/2017 9:44:50,George Vagenas,COLLABORATOR,male,No,No,None,Elaboration,No
+MDU6SXNzdWUyMTc5MDAzODc=,3/29/2017 14:50:20,LELEU Jérôme,MEMBER,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUyMTk3NTAyMjg=,4/6/2017 5:44:24, ,COLLABORATOR,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUyMTk3NTAyMjg=,5/26/2017 1:14:53,e-Evolution,CONTRIBUTOR,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUyMTM1OTUxMTI=,3/12/2017 10:10:47,Johan Lorenzo,NONE,male,No,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUyMTM1OTUxMTI=,4/26/2017 9:21:53,Dominik Schürmann,MEMBER,male,No,No,None,Elaboration,No
+MDU6SXNzdWUyMTM1OTUxMTI=,4/26/2017 9:26:01,Johan Lorenzo,NONE,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUyMTM1OTUxMTI=,4/26/2017 10:25:40,Dominik Schürmann,MEMBER,male,No,Yes,Documentation,Instruction,No
+MDU6SXNzdWUyMTM1OTUxMTI=,4/26/2017 20:53:51,Johan Lorenzo,NONE,male,No,Yes,Documentation,Notification,Yes
+MDU6SXNzdWUyMTM1OTUxMTI=,4/30/2017 8:37:36,Johan Lorenzo,NONE,male,No,No,Documentation,Other,No
+MDU6SXNzdWUyMTMyODU4Nzg=,3/12/2017 3:17:45,Ben Y,CONTRIBUTOR,male,No,Yes,None,Ask / Request,No
+MDU6SXNzdWUyMTMyODU4Nzg=,3/12/2017 10:16:01,Slava Semushin,OWNER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUyMTMyODU4Nzg=,3/12/2017 15:22:06,Ben Y,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUyMTMyODU4Nzg=,3/12/2017 20:44:41,Slava Semushin,OWNER,male,Contributor,Yes,Documentation,Instruction,No
+MDU6SXNzdWUyMTMyODU4Nzg=,3/12/2017 20:45:54,Slava Semushin,OWNER,male,No,Yes,None,Other,No
+MDU6SXNzdWUyMTQwMjcwMjA=,4/25/2017 4:56:39,Dilshat,MEMBER,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUyMzI5NTczNDQ=,6/1/2017 18:21:46,Cameron Mace,CONTRIBUTOR,male,Author of Issue,Not applicable,None,Notification,No
+MDU6SXNzdWUyMzIzNjU3NTQ=,7/18/2017 20:48:23,Cameron Mace,CONTRIBUTOR,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUyMzQ5MTEwMDM=,8/2/2017 20:43:16,Kevin Hinterlong,MEMBER,male,Other,No,None,Elaboration,Yes
+MDU6SXNzdWUyMzQ5MTEwMDM=,8/2/2017 21:51:03, ,CONTRIBUTOR,unknown,No,Yes,None,Notification,No
+MDU6SXNzdWUyNDE1Njg0OTc=,7/11/2017 17:44:19,Slava Semushin,OWNER,male,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUyNDE1Njg0OTc=,6/4/2018 17:51:40,Slava Semushin,OWNER,male,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUyNDE1Njg0OTc=,6/4/2018 17:52:00,Slava Semushin,OWNER,male,No,Yes,Documentation,Instruction,No
+MDU6SXNzdWUyNDE2NTMzMzE=,7/10/2017 9:34:18,Fleur Kelpin,MEMBER,female,No,No,None,Ask / Request,No
+MDU6SXNzdWUyNDg5NTExOTc=,8/12/2017 12:40:49,Benny Bottema,OWNER,male,No,Not applicable,None,Notification,Yes
+MDU6SXNzdWUyNDM3OTEyOTg=,7/18/2017 17:43:45,Paul TREHIOU,NONE,male,No,No,None,Ask / Request,No
+MDU6SXNzdWUyNDM3OTEyOTg=,7/18/2017 17:45:55,Vincent Breitmoser,MEMBER,male,No,No,None,Ask / Request,No
+MDU6SXNzdWUyNDM3OTEyOTg=,7/18/2017 20:04:34,Nikita Mikhailov,MEMBER,unknown,No,No,None,Ask / Request,No
+MDU6SXNzdWUyNDM3OTEyOTg=,7/22/2017 1:30:03,Paul TREHIOU,NONE,male,Other,No,None,Elaboration,No
+MDU6SXNzdWUyNDM3OTEyOTg=,8/17/2017 12:21:05,Paul TREHIOU,NONE,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUyNDM3OTEyOTg=,8/17/2017 12:22:19,Nikita Mikhailov,MEMBER,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUyNDM3OTEyOTg=,8/17/2017 12:49:35,Paul TREHIOU,NONE,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUyNDM3OTEyOTg=,8/17/2017 20:09:10,Vincent Breitmoser,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUyNDM3OTEyOTg=,8/18/2017 10:16:47,Nikita Mikhailov,MEMBER,unknown,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUyNDM3OTEyOTg=,11/28/2017 12:42:02,Paul TREHIOU,NONE,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUyNDM3OTEyOTg=,11/28/2017 14:25:39,Dominik Schürmann,MEMBER,male,No,Yes,None,Notification,No
+MDU6SXNzdWUyNDM3OTEyOTg=,11/28/2017 16:51:55,Dominik Schürmann,MEMBER,male,No,Yes,Documentation,Notification,Yes
+MDU6SXNzdWUyNDM3OTEyOTg=,3/19/2018 16:31:52,Dmitry Gusarov,NONE,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUyNDM3OTEyOTg=,4/4/2018 14:51:19,Chris Hozian,NONE,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUyNDM3OTEyOTg=,4/4/2018 15:05:25,Vincent Breitmoser,MEMBER,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUyNDM3OTEyOTg=,5/28/2018 9:18:33,Vincent Breitmoser,MEMBER,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUyNDM3OTEyOTg=,6/3/2018 16:01:42,Chris Hozian,NONE,male,No,Not applicable,None,Reminder,No
+MDU6SXNzdWUyNDM3OTEyOTg=,6/7/2018 12:23:28,Vincent Breitmoser,MEMBER,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUyNDYxNTg2MA==,12/20/2013 10:55:29,Claus Ibsen,MEMBER,male,Member,No,None,Ask / Request,No
+MDU6SXNzdWUyNDYxNTg2MA==,12/20/2013 11:39:40,Claus Ibsen,MEMBER,male,No,No,None,Ask / Request,No
+MDU6SXNzdWUyNDYxNTg2MA==,12/20/2013 12:05:02,Claus Ibsen,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUyNDYxNTg2MA==,12/20/2013 12:55:47,Claus Ibsen,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUyNDYxNTg2MA==,12/20/2013 12:58:03,Claus Ibsen,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUyNDYxNTg2MA==,12/20/2013 12:59:46,Claus Ibsen,MEMBER,male,No,No,None,Elaboration,No
+MDU6SXNzdWUyNjg3MTgy,12/30/2011 8:49:42,Norman Maurer,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUyNjg3MTgy,12/30/2011 9:16:14,Trustin Lee,MEMBER,male,No,Yes,None,Reminder,No
+MDU6SXNzdWUyNTA5MjM0NTk=,8/17/2017 15:05:40,Sido Haakma,CONTRIBUTOR,male,No,Yes,None,Ask / Request,No
+MDU6SXNzdWUyNTA5MjM0NTk=,8/18/2017 6:28:30,Sido Haakma,CONTRIBUTOR,male,Member,Yes,None,Ask / Request,No
+MDU6SXNzdWUyNTA5MjM0NTk=,8/18/2017 6:29:24,Sido Haakma,CONTRIBUTOR,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUyNTA5MjM0NTk=,11/22/2017 12:09:58,Mark de Haan,CONTRIBUTOR,male,No,Yes,None,Notification,No
+MDU6SXNzdWUyNTU3MDU2MzI=,9/7/2017 13:49:25,Kyle Braak,CONTRIBUTOR,male,Author of Issue,Yes,None,Elaboration,Yes
+MDU6SXNzdWUyNzcyMzc3ODA=,11/28/2017 6:54:37,Tan Li Hao,CONTRIBUTOR,unknown,Contributor,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUyNzcyMzc3ODA=,11/29/2017 16:28:05, ,CONTRIBUTOR,unknown,Other,Yes,None,Ask / Request,No
+MDU6SXNzdWUyNzcyMzc3ODA=,11/29/2017 16:31:23,Wilson Kurniawan,MEMBER,male,Author of Issue,Yes,None,Elaboration,No
+MDU6SXNzdWUyNzcyMzc3ODA=,11/29/2017 16:34:16,Niluja Biswal,NONE,unknown,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWUyNzcyMzc3ODA=,11/29/2017 16:51:33,Tan Li Hao,CONTRIBUTOR,unknown,Author of Issue,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUyNzcyMzc3ODA=,11/29/2017 17:13:08,Wilson Kurniawan,MEMBER,male,No,No,Documentation,Elaboration,No
+MDU6SXNzdWUyNzcyMzc3ODA=,11/29/2017 17:46:35,Tan Li Hao,CONTRIBUTOR,unknown,Member,Yes,None,Elaboration,No
+MDU6SXNzdWUyNzcyMzc3ODA=,11/30/2017 1:17:39,Niluja Biswal,NONE,unknown,Member,Yes,None,Elaboration,No
+MDU6SXNzdWUyNzcyMzc3ODA=,11/30/2017 5:11:40,Tan Li Hao,CONTRIBUTOR,unknown,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUyNzcyMzc3ODA=,11/30/2017 17:57:09,Tan Li Hao,CONTRIBUTOR,unknown,Member,No,Documentation,Elaboration,No
+MDU6SXNzdWUyNzcyMzc3ODA=,12/1/2017 4:36:26,Wilson Kurniawan,MEMBER,male,No,Not applicable,None,Notification,Yes
+MDU6SXNzdWUyNzcyMzc3ODA=,12/1/2017 4:42:34,Tan Li Hao,CONTRIBUTOR,unknown,Member,Yes,None,Notification,No
+MDU6SXNzdWUyNzcyMzc3ODA=,1/22/2019 15:59:32,Wilson Kurniawan,MEMBER,male,No,Yes,CVE,Notification,Yes
+MDU6SXNzdWUyNzkxNzU4MDI=,12/5/2017 11:22:17,Constantine,CONTRIBUTOR,male,Other,No,None,Ask / Request,No
+MDU6SXNzdWUyNzkxNzU4MDI=,12/5/2017 13:09:31,Manfred Karrer,MEMBER,male,No,No,Documentation,Elaboration,No
+MDU6SXNzdWUyNzkxNzU4MDI=,12/5/2017 13:11:55, ,MEMBER,unknown,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWUyNzkxNzU4MDI=,1/9/2018 18:51:27,Cor-Leonis,NONE,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUyNzkxNzU4MDI=,3/23/2018 14:28:56,Anthony K,NONE,male,No,No,None,Elaboration,No
+MDU6SXNzdWUyNzkxNzU4MDI=,3/23/2018 14:31:30,Bernard Labno,CONTRIBUTOR,male,Member,No,None,Elaboration,No
+MDU6SXNzdWUyNzkxNzU4MDI=,3/23/2018 18:49:33,Anthony K,NONE,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUyNzkxNzU4MDI=,1/17/2019 23:54:07, ,NONE,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUyNzkxNzU4MDI=,3/2/2019 14:11:43, ,CONTRIBUTOR,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUyNzkxNzU4MDI=,3/2/2019 14:20:26, ,MEMBER,unknown,No,Yes,Documentation,Notification,No
+MDU6SXNzdWUyNzkxNzU4MDI=,10/3/2019 16:28:15,Daniell Mesquita,NONE,male,No,Not applicable,None,Notification,No
+MDU6SXNzdWUyNzkxNzU4MDI=,3/6/2020 11:17:10, ,NONE,unknown,No,No,None,Other,No
+MDU6SXNzdWUyNzMxOTYzNTM=,12/16/2017 5:50:55,Damith C. Rajapakse,CONTRIBUTOR,male,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWUyNzQ4Njc0ODQ=,11/17/2017 19:46:48,Toshi Yamamoto,CONTRIBUTOR,male,No,Yes,None,Notification,No
+MDU6SXNzdWUyNzQ4Njc0ODQ=,2/6/2018 18:40:19,Toshi Yamamoto,CONTRIBUTOR,male,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWUyNzY0NzIyOTA=,3/10/2018 1:48:15, ,CONTRIBUTOR,unknown,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWUyODAxNDA4NjU=,12/7/2017 19:58:18,Dominik Schürmann,MEMBER,male,No,No,None,Ask / Request,No
+MDU6SXNzdWUyODAxNDA4NjU=,12/11/2017 7:42:23,Alexander Paetzelt,NONE,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUyODg1OTU1NDE=,1/15/2018 18:58:20,Damien Coraboeuf,CONTRIBUTOR,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUyODM0OTI5MDQ=,1/4/2018 10:41:21,Hendrik Ebbers,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUyODMxNzAwMDU=,12/19/2017 13:30:56,Hendrik Ebbers,CONTRIBUTOR,male,Author of Issue,No,Fix,Ask / Request,No
+MDU6SXNzdWUyOTAyMDc1NTM=,1/22/2018 7:33:10,Yannick LE COLLEN,CONTRIBUTOR,male,Contributor,No,None,Ask / Request,No
+MDU6SXNzdWUyOTAyMDc1NTM=,2/22/2018 22:24:13,Matthew Hodgson,MEMBER,male,No,Yes,Fix,Elaboration,No
+MDU6SXNzdWUyOTAyMDc1NTM=,2/26/2018 15:19:04, ,MEMBER,unknown,No,Yes,Fix,Notification,No
+MDU6SXNzdWUyOTE5OTMxODg=,1/26/2018 21:51:27, ,CONTRIBUTOR,unknown,No,No,None,Ask / Request,No
+MDU6SXNzdWUyOTE5OTMxODg=,4/17/2018 14:54:17, ,CONTRIBUTOR,unknown,No,No,None,Ask / Request,No
+MDU6SXNzdWUyOTE5OTMxODg=,4/17/2018 15:51:26, ,CONTRIBUTOR,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUyOTgwNjQwMzY=,2/18/2018 10:04:48,Frederico Galvão,COLLABORATOR,male,Author of Issue,Yes,None,Ask / Request,No
+MDU6SXNzdWUyOTgwNjQwMzY=,2/20/2018 0:28:19,Simon MacDonald,MEMBER,male,Author of Issue,No,Fix,Elaboration,No
+MDU6SXNzdWUyOTgwNjQwMzY=,2/20/2018 4:57:23, ,NONE,unknown,Author of Issue,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUyOTgwNjQwMzY=,2/20/2018 13:12:57,Simon MacDonald,MEMBER,male,Member,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUyOTgwNjQwMzY=,2/20/2018 13:21:16,Simon MacDonald,MEMBER,male,Author of Issue,Yes,Fix,Instruction,Yes
+MDU6SXNzdWUyOTgwNjQwMzY=,2/22/2018 10:54:52, ,NONE,unknown,No,Not applicable,None,Notification,No
+MDU6SXNzdWUyOTgwNjQwMzY=,6/3/2018 5:15:25, ,NONE,unknown,Member,Not applicable,None,Other,No
+MDU6SXNzdWUyOTgwNjQxMTk=,2/20/2018 4:58:59, ,NONE,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUyOTgwNjQxMTk=,2/20/2018 13:10:51,Simon MacDonald,MEMBER,male,Author of Issue,Yes,Fix,Instruction,Yes
+MDU6SXNzdWUyOTgwNjQxMTk=,2/22/2018 10:54:45, ,NONE,unknown,No,Not applicable,None,Notification,No
+MDU6SXNzdWUyOTgwNjQxMTk=,6/3/2018 5:15:27, ,NONE,unknown,Member,Not applicable,None,Other,No
+MDU6SXNzdWUyOTgzMDkzNA==,3/25/2014 8:43:14,Dennis Hendriksen,CONTRIBUTOR,male,No,Yes,None,Elaboration,Yes
+MDU6SXNzdWUyOTgzMDkzNA==,6/23/2014 13:02:49,Dennis Hendriksen,CONTRIBUTOR,male,No,Yes,None,Instruction,No
+MDU6SXNzdWUyOTU1MTUzMDM=,2/23/2018 15:49:34,David Cassel,CONTRIBUTOR,male,No,Yes,None,Ask / Request,No
+MDU6SXNzdWUyOTU1MTUzMDM=,6/6/2018 18:54:39,MarkLogic Builder,CONTRIBUTOR,unknown,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWUyOTU1MTUzMDM=,6/15/2019 19:11:10,Alex Ebadirad,CONTRIBUTOR,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUyOTY4MzgxMjc=,5/7/2018 15:51:37,Adam Yoho,MEMBER,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzMDc0MDYxNTc=,3/23/2018 21:55:04,Toshi Yamamoto,CONTRIBUTOR,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzMDc0MzI1NTI=,4/16/2018 15:47:04,Chunlong Liang,NONE,male,No,No,Documentation,Ask / Request,No
+MDU6SXNzdWUzMDc0MzI1NTI=,5/30/2018 20:26:24,Ut Le,MEMBER,unknown,No,Yes,Documentation,Notification,Yes
+MDU6SXNzdWUzMDc0MzI1NTI=,5/30/2018 20:27:59,Ut Le,MEMBER,unknown,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWUzMDc0MzI1NTI=,3/29/2019 10:44:28,Radoslaw Panowek,NONE,male,No,Yes,None,Reminder,No
+MDU6SXNzdWUzMDc4MzE0MDc=,3/24/2018 14:21:55,Toshi Yamamoto,CONTRIBUTOR,male,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWUzMDgxNDUyNTI=,3/26/2018 23:06:22,Eron Wright,CONTRIBUTOR,male,No,No,None,Ask / Request,No
+MDU6SXNzdWUzMDgxNDUyNTI=,3/26/2018 23:58:44,Christophe Balczunas,NONE,male,No,No,None,Elaboration,No
+MDU6SXNzdWUzMDgxNDUyNTI=,3/27/2018 15:09:08,Eron Wright,CONTRIBUTOR,male,No,No,None,Elaboration,No
+MDU6SXNzdWUzMDgxNDUyNTI=,6/26/2018 17:30:01,Eron Wright,CONTRIBUTOR,male,No,No,None,Elaboration,No
+MDU6SXNzdWUzMDgxNDUyNTI=,7/30/2018 17:22:43, ,CONTRIBUTOR,unknown,Other,No,None,Elaboration,No
+MDU6SXNzdWUzMDgxNDUyNTI=,7/30/2018 18:33:29,Christophe Balczunas,NONE,male,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWUzMDI2Nzc4NjU=,3/6/2018 12:21:40,Thomas Andraschko,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMDI2Nzc4NjU=,3/6/2018 12:25:35,"╭∩╮ (òÓ,) ╭∩╮",CONTRIBUTOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMDI2Nzc4NjU=,1/18/2019 7:44:51,"╭∩╮ (òÓ,) ╭∩╮",CONTRIBUTOR,unknown,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUzMDI2Nzc4NjU=,1/18/2019 7:48:59,Thomas Andraschko,MEMBER,male,No,Not applicable,None,Notification,Yes
+MDU6SXNzdWUzMDI2Nzc4NjU=,1/18/2019 7:50:31,"╭∩╮ (òÓ,) ╭∩╮",CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMDI2Nzc4NjU=,1/18/2019 7:52:23,"╭∩╮ (òÓ,) ╭∩╮",CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMDI2Nzc4NjU=,1/18/2019 7:53:21,Thomas Andraschko,MEMBER,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMDI3MDY1OTc=,3/6/2018 13:57:49,"╭∩╮ (òÓ,) ╭∩╮",CONTRIBUTOR,unknown,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWUzMDkyNDE0NzY=,11/19/2018 7:11:22,Oskar Hane,MEMBER,male,No,Yes,Documentation,Elaboration,Yes
+MDU6SXNzdWUzMDU0NTM2MDc=,3/15/2018 9:50:41,Richy HBM,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMDU1ODE5Nzc=,3/15/2018 18:49:41,Apurva Mehta,CONTRIBUTOR,unknown,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUzMDU1ODE5Nzc=,6/5/2018 15:20:57,Andy Coates,MEMBER,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzMjE4MDUwNDQ=,6/6/2018 3:21:08,Boaz Galil,NONE,male,Author of Issue,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUzMjE4MDUwNDQ=,6/6/2018 4:44:29,Tatu Saloranta,MEMBER,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzMjE4MDUwNDQ=,6/6/2018 4:48:32,Boaz Galil,NONE,male,Author of Issue,Not applicable,None,Other,No
+MDU6SXNzdWUzMjE4MDUwNDQ=,6/8/2018 6:28:12,Tatu Saloranta,MEMBER,unknown,Other,Not applicable,None,Other,No
+MDU6SXNzdWUzMjg4MTE1MTM=,6/3/2018 15:52:33,Dannes Wessels,MEMBER,male,No,Yes,None,Ask / Request,No
+MDU6SXNzdWUzMjg4MTE1MTM=,6/3/2018 20:16:47,Joe Wicentowski,MEMBER,male,No,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUzMjg4MTE1MTM=,6/4/2018 7:09:11,Adam Retter,MEMBER,male,Member,Yes,None,Elaboration,No
+MDU6SXNzdWUzMjg4MTE1MTM=,6/4/2018 8:03:49,Duncan Paterson,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMjgxNTc5MzA=,5/31/2018 22:38:58,Toshi Yamamoto,CONTRIBUTOR,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzMjMzMDYxNDg=,5/15/2018 18:15:41,Elastic Machine,COLLABORATOR,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUzMjMzMDYxNDg=,5/16/2018 8:53:44,James Uffindell-Birt,NONE,male,Other,Yes,None,Elaboration,No
+MDU6SXNzdWUzMjMzMDYxNDg=,5/16/2018 16:00:12,Martijn van Groningen,MEMBER,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzMjQwMTA2MDg=,5/17/2018 13:11:18,Kevin Herron,CONTRIBUTOR,male,No,No,Documentation,Elaboration,No
+MDU6SXNzdWUzMjQwMTA2MDg=,9/22/2018 13:05:30,Kevin Herron,CONTRIBUTOR,male,No,Yes,None,Notification,No
+MDU6SXNzdWUzMjU3OTAxNTk=,5/24/2018 7:39:37,Jochen Schalanda,CONTRIBUTOR,male,No,Not applicable,Documentation,Notification,No
+MDU6SXNzdWUzMTc0NDc0Njc=,2/10/2017 17:59:22,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Ask / Request,No
+MDU6SXNzdWUzMTc0NDc0Njc=,2/10/2017 17:59:22,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDc0Njc=,2/10/2017 17:59:23,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDc0Njc=,2/10/2017 17:59:23,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Notification,No
+MDU6SXNzdWUzMTc0NDc1ODM=,9/26/2019 0:41:23, ,CONTRIBUTOR,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzMTc0NDc2NTk=,2/10/2017 18:51:38,Elastic Machine,COLLABORATOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTc0NDc5NDI=,9/26/2019 1:06:56, ,CONTRIBUTOR,unknown,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUzMTc0NDc5NDI=,10/7/2019 15:33:50,James Rodewig,CONTRIBUTOR,male,No,Yes,None,Notification,No
+MDU6SXNzdWUzMTc0NDcwNDg=,2/10/2017 17:26:32,Elastic Machine,COLLABORATOR,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDcwNDM=,3/4/2018 22:41:07,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDcwNDM=,7/19/2019 2:47:03,Yogesh Gaikwad,CONTRIBUTOR,male,No,Yes,Documentation,Instruction,No
+MDU6SXNzdWUzMTc0NDczNDY=,1/12/2018 16:40:43,Elastic Machine,COLLABORATOR,unknown,Contributor,Not applicable,None,Other,No
+MDU6SXNzdWUzMTc0NDczNDY=,1/15/2018 7:05:11,Elastic Machine,COLLABORATOR,unknown,Contributor,No,None,Reminder,No
+MDU6SXNzdWUzMTc0NDg2MDY=,5/1/2018 3:01:06,ashish gupta k,NONE,male,Other,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUzMTc0NDg2MDY=,5/1/2018 3:21:46,Tim Vernum,CONTRIBUTOR,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTc0NDg2MDY=,5/1/2018 7:08:08,ashish gupta k,NONE,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTc0NDg2MDY=,6/8/2018 11:16:06,Thiyagu06,NONE,unknown,Contributor,Not applicable,None,Other,No
+MDU6SXNzdWUzMTc0NDg2MDY=,7/26/2018 12:48:34,Margarita Solovyeva,NONE,female,Other,Not applicable,None,Other,No
+MDU6SXNzdWUzMTc0NDg2MDY=,8/30/2018 19:20:06, ,NONE,unknown,Other,Not applicable,None,Other,No
+MDU6SXNzdWUzMTc0NDg2MDY=,8/31/2018 2:15:39,Tim Vernum,CONTRIBUTOR,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTc0NDg2MDY=,11/11/2018 22:07:24, ,NONE,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTc0NDg2MDY=,11/11/2018 22:31:18,Tim Vernum,CONTRIBUTOR,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTc0NDg2MjQ=,1/5/2018 0:41:13,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDg2MjQ=,1/5/2018 14:50:37,Elastic Machine,COLLABORATOR,unknown,Contributor,Not applicable,None,Reminder,No
+MDU6SXNzdWUzMTc0NDg5MzM=,3/19/2018 20:26:28,Elastic Machine,COLLABORATOR,unknown,Contributor,No,Fix,Ask / Request,No
+MDU6SXNzdWUzMTc0NDg5MzM=,3/20/2018 2:40:16,Elastic Machine,COLLABORATOR,unknown,No,No,None,Ask / Request,No
+MDU6SXNzdWUzMTc0NDg5MzM=,3/20/2018 5:08:25,Elastic Machine,COLLABORATOR,unknown,No,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUzMTc0NDg5MzM=,3/20/2018 15:14:15,Elastic Machine,COLLABORATOR,unknown,Member,No,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDg5MzM=,3/20/2018 17:15:24,Elastic Machine,COLLABORATOR,unknown,No,No,Documentation,Elaboration,No
+MDU6SXNzdWUzMTc0NDg5MzM=,3/21/2018 0:49:48,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDg5MzM=,6/2/2018 13:26:11,Albert Zaharovits,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDg5MzM=,6/4/2018 3:09:49,Tim Vernum,CONTRIBUTOR,male,No,No,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDg5MzM=,6/26/2018 19:38:49,Jay Modi,MEMBER,male,No,No,Fix,Elaboration,No
+MDU6SXNzdWUzMTc0NDg5MzM=,1/24/2019 10:44:16,Albert Zaharovits,CONTRIBUTOR,male,Other,Yes,Documentation,Instruction,No
+MDU6SXNzdWUzMTc0NDg5MzM=,3/31/2019 15:05:28,Willem D'Haese,NONE,male,No,Yes,Fix,Notification,No
+MDU6SXNzdWUzMTc0NDg5MzM=,4/1/2019 0:28:28,Tim Vernum,CONTRIBUTOR,male,Contributor,Not applicable,Fix,Notification,No
+MDU6SXNzdWUzMTc0NDg5NjM=,3/20/2018 14:08:15,Elastic Machine,COLLABORATOR,unknown,Member,No,None,Ask / Request,No
+MDU6SXNzdWUzMTc0NDg5NjM=,3/20/2018 17:45:23,Elastic Machine,COLLABORATOR,unknown,No,No,Documentation,Ask / Request,No
+MDU6SXNzdWUzMTc0NDg5NjM=,3/20/2018 17:47:00,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDg5NjM=,3/20/2018 17:49:15,Elastic Machine,COLLABORATOR,unknown,No,No,Documentation,Elaboration,No
+MDU6SXNzdWUzMTc0NDg5NjM=,3/20/2018 17:54:40,Elastic Machine,COLLABORATOR,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDg5NjM=,3/26/2018 13:42:04,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDg5NjM=,3/27/2018 19:52:42,Elastic Machine,COLLABORATOR,unknown,Contributor,No,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDg5NjM=,3/27/2018 21:10:39,Elastic Machine,COLLABORATOR,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDg5NjM=,3/27/2018 21:28:31,Elastic Machine,COLLABORATOR,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDg5NjM=,3/27/2018 22:21:08,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDg5NjM=,3/28/2018 14:55:04,Elastic Machine,COLLABORATOR,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDg5NjM=,3/28/2018 20:49:56,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Notification,No
+MDU6SXNzdWUzMTc0NDg5NjM=,3/29/2018 15:13:04,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Notification,No
+MDU6SXNzdWUzMTc0NDg5NjM=,3/29/2018 20:25:36,Elastic Machine,COLLABORATOR,unknown,No,Not applicable,Documentation,Notification,No
+MDU6SXNzdWUzMTc0NDg5NjM=,3/30/2018 7:46:08,Elastic Machine,COLLABORATOR,unknown,No,Yes,Documentation,Notification,No
+MDU6SXNzdWUzMTc0NDg5NjM=,3/30/2018 18:46:15,Elastic Machine,COLLABORATOR,unknown,No,Yes,Documentation,Notification,No
+MDU6SXNzdWUzMTc0NDg5NjM=,4/2/2018 15:52:54,Elastic Machine,COLLABORATOR,unknown,No,Yes,Documentation,Notification,No
+MDU6SXNzdWUzMTc0NDg5NjM=,4/5/2018 13:39:33,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzMTc0NDg5NjM=,4/11/2018 7:02:14,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Other,No
+MDU6SXNzdWUzMTc0NDg5NjM=,5/16/2018 16:39:34,Jay Modi,MEMBER,male,Member,Not applicable,None,Other,No
+MDU6SXNzdWUzMTc0NDgwNTI=,10/5/2017 3:58:58,Elastic Machine,COLLABORATOR,unknown,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgwNTI=,10/5/2017 4:38:31,Elastic Machine,COLLABORATOR,unknown,Member,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgwNTI=,10/12/2019 0:19:46, ,CONTRIBUTOR,unknown,Member,No,Documentation,Elaboration,No
+MDU6SXNzdWUzMTc0NDgxNzU=,10/3/2017 16:41:39,Elastic Machine,COLLABORATOR,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgxNzU=,10/3/2017 16:51:52,Elastic Machine,COLLABORATOR,unknown,No,Yes,Documentation,Notification,No
+MDU6SXNzdWUzMTc0NDgxNzU=,10/3/2017 17:02:30,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Other,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,10/20/2017 13:51:56,Elastic Machine,COLLABORATOR,unknown,No,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,12/13/2017 19:29:57,Elastic Machine,COLLABORATOR,unknown,Contributor,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,12/18/2017 18:21:54,Elastic Machine,COLLABORATOR,unknown,Member,No,None,Ask / Request,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,12/20/2017 18:18:47,Elastic Machine,COLLABORATOR,unknown,Contributor,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,2/12/2018 1:37:56,Elastic Machine,COLLABORATOR,unknown,No,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,2/14/2018 13:30:55,Elastic Machine,COLLABORATOR,unknown,No,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,2/14/2018 16:03:44,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,2/15/2018 2:58:24,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,2/15/2018 13:07:30,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,2/16/2018 6:58:08,Elastic Machine,COLLABORATOR,unknown,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,2/16/2018 15:58:19,Elastic Machine,COLLABORATOR,unknown,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,2/20/2018 15:35:05,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,2/20/2018 16:31:36,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/7/2018 19:33:25,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/8/2018 3:37:36,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/8/2018 13:07:58,Elastic Machine,COLLABORATOR,unknown,Contributor,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/13/2018 20:18:31,Elastic Machine,COLLABORATOR,unknown,Member,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/14/2018 5:25:18,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/15/2018 3:09:45,Elastic Machine,COLLABORATOR,unknown,Member,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/15/2018 19:56:52,Elastic Machine,COLLABORATOR,unknown,Member,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/21/2018 19:30:39,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/22/2018 16:46:33,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/23/2018 0:31:28,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/26/2018 12:18:18,Elastic Machine,COLLABORATOR,unknown,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/26/2018 12:29:17,Elastic Machine,COLLABORATOR,unknown,Contributor,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/27/2018 5:03:47,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/27/2018 11:54:29,Elastic Machine,COLLABORATOR,unknown,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/27/2018 12:07:34,Elastic Machine,COLLABORATOR,unknown,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/27/2018 12:38:19,Elastic Machine,COLLABORATOR,unknown,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/27/2018 12:48:11,Elastic Machine,COLLABORATOR,unknown,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/27/2018 16:24:57,Elastic Machine,COLLABORATOR,unknown,Member,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/27/2018 17:08:25,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/27/2018 17:19:55,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/27/2018 17:23:57,Elastic Machine,COLLABORATOR,unknown,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/27/2018 17:48:12,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/27/2018 18:28:25,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/27/2018 18:42:13,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/27/2018 23:31:44,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,3/28/2018 14:29:57,Elastic Machine,COLLABORATOR,unknown,Member,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,4/9/2018 19:55:40,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,Yes
+MDU6SXNzdWUzMTc0NDgyNjQ=,4/9/2018 22:02:59,Elastic Machine,COLLABORATOR,unknown,Member,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,4/11/2018 13:28:17,Elastic Machine,COLLABORATOR,unknown,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,4/12/2018 1:44:07,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,4/12/2018 8:33:15,Elastic Machine,COLLABORATOR,unknown,Contributor,Yes,Documentation,Notification,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,4/16/2018 6:07:24,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Notification,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,4/16/2018 10:39:41,Elastic Machine,COLLABORATOR,unknown,Contributor,Yes,None,Other,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,4/16/2018 13:51:39,Elastic Machine,COLLABORATOR,unknown,Contributor,Not applicable,None,Other,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,4/17/2018 11:24:14,Elastic Machine,COLLABORATOR,unknown,Contributor,Not applicable,None,Other,No
+MDU6SXNzdWUzMTc0NDgyNjQ=,4/20/2018 5:49:07,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Reminder,No
+MDU6SXNzdWUzMTc0NDk3NTE=,5/31/2017 16:43:50,Elastic Machine,COLLABORATOR,unknown,Member,No,None,Ask / Request,No
+MDU6SXNzdWUzMTc0NDk3NTE=,5/31/2017 16:45:13,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDk3NTE=,5/31/2017 20:01:31,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDk3NTE=,5/31/2017 20:20:17,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NDk3NTE=,11/1/2019 19:20:41,James Rodewig,CONTRIBUTOR,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTc0NDk5ODk=,3/21/2018 7:31:52,Elastic Machine,COLLABORATOR,unknown,No,Yes,Documentation,Notification,No
+MDU6SXNzdWUzMTc0NDk5ODk=,2/3/2020 19:56:38,Albert Zaharovits,CONTRIBUTOR,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzMTc0NDkxNjE=,5/4/2018 12:07:28,Ioannis Kakavas,CONTRIBUTOR,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzMTc0NTA1NzA=,5/31/2018 11:33:00,Ioannis Kakavas,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTA2MTc=,10/3/2019 10:57:42,Albert Zaharovits,CONTRIBUTOR,male,Author of Issue,Yes,Fix,Ask / Request,No
+MDU6SXNzdWUzMTc0NTA2MTc=,10/3/2019 10:58:12,Albert Zaharovits,CONTRIBUTOR,male,Contributor,No,None,Ask / Request,No
+MDU6SXNzdWUzMTc0NTA2MTc=,12/29/2019 16:11:11,Albert Zaharovits,CONTRIBUTOR,male,Contributor,No,None,Ask / Request,No
+MDU6SXNzdWUzMTc0NTA2MTc=,1/2/2020 6:50:15,Tim Vernum,CONTRIBUTOR,male,Contributor,Yes,None,Ask / Request,No
+MDU6SXNzdWUzMTc0NTA2MTc=,1/2/2020 21:08:10,Amir H Movahed,CONTRIBUTOR,male,Author of Issue,No,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTA2MTc=,1/3/2020 10:32:04,Albert Zaharovits,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTA2MTc=,1/3/2020 20:26:58,Amir H Movahed,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTA2MTc=,1/4/2020 18:37:36,Amir H Movahed,CONTRIBUTOR,male,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTA2MTc=,1/6/2020 8:57:31,Albert Zaharovits,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTA2MTc=,1/6/2020 9:24:36,Amir H Movahed,CONTRIBUTOR,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTc0NTAyMDg=,11/29/2017 15:56:39,Elastic Machine,COLLABORATOR,unknown,No,No,None,Ask / Request,No
+MDU6SXNzdWUzMTc0NTAyMDg=,11/29/2017 15:57:08,Elastic Machine,COLLABORATOR,unknown,No,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUzMTc0NTAyMDg=,11/29/2017 16:01:20,Elastic Machine,COLLABORATOR,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTAyMDg=,11/29/2017 16:22:29,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTAyMDg=,11/29/2017 16:28:03,Elastic Machine,COLLABORATOR,unknown,Member,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTAyMDg=,10/21/2019 19:43:40,Marius Istrate,NONE,male,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTM4NzU=,5/14/2018 8:41:29,Alan Woodward,CONTRIBUTOR,male,No,Yes,Documentation,Notification,No
+MDU6SXNzdWUzMTc0NTM4NzU=,8/7/2018 15:37:04,Tim Brooks,CONTRIBUTOR,male,No,Yes,None,Notification,No
+MDU6SXNzdWUzMTc0NTQ2MDg=,2/26/2018 6:47:26,Elastic Machine,COLLABORATOR,unknown,Other,No,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTQ2MDg=,2/26/2018 8:48:57,Elastic Machine,COLLABORATOR,unknown,No,No,Documentation,Elaboration,No
+MDU6SXNzdWUzMTc0NTQ2MDg=,3/8/2018 0:23:10,Elastic Machine,COLLABORATOR,unknown,No,Not applicable,Fix,Notification,No
+MDU6SXNzdWUzMTc0NTQ2MDg=,3/8/2018 8:19:21,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzMTc0NTQ2MzM=,3/3/2018 21:35:04,Elastic Machine,COLLABORATOR,unknown,Contributor,Not applicable,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTQ2MzM=,5/14/2018 6:29:25,Insuk (Chris) Cho,CONTRIBUTOR,unknown,No,Yes,Documentation,Reminder,No
+MDU6SXNzdWUzMTc0NTQ5Njc=,12/4/2018 13:50:11,Albert Zaharovits,CONTRIBUTOR,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:29,Elastic Machine,COLLABORATOR,unknown,No,No,None,Ask / Request,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:30,Elastic Machine,COLLABORATOR,unknown,No,Yes,Documentation,Ask / Request,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:30,Elastic Machine,COLLABORATOR,unknown,Member,No,None,Ask / Request,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:30,Elastic Machine,COLLABORATOR,unknown,Member,Yes,None,Ask / Request,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:31,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Ask / Request,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:32,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:32,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:33,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:33,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:34,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:34,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:34,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:35,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:35,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:35,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:36,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:36,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:37,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:37,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:37,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:38,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:38,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Other,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:39,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Other,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:39,Elastic Machine,COLLABORATOR,unknown,Contributor,Yes,None,Other,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/10/2017 18:08:39,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Other,No
+MDU6SXNzdWUzMTc0NTQwODQ=,2/27/2018 10:41:34,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzMTc0NTQwODQ=,3/8/2018 17:23:43,Elastic Machine,COLLABORATOR,unknown,Member,Yes,None,Reminder,No
+MDU6SXNzdWUzMTc0NTQwODQ=,3/14/2018 18:23:11,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzMTc0NTQwODQ=,6/7/2018 20:50:17,Tal Levy,CONTRIBUTOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzMTc0NTQxNDc=,2/10/2017 18:09:02,Elastic Machine,COLLABORATOR,unknown,No,No,None,Ask / Request,No
+MDU6SXNzdWUzMTc0NTQxNDc=,2/10/2017 18:09:03,Elastic Machine,COLLABORATOR,unknown,No,No,None,Ask / Request,No
+MDU6SXNzdWUzMTc0NTQxNDc=,2/10/2017 18:09:04,Elastic Machine,COLLABORATOR,unknown,No,No,None,Ask / Request,No
+MDU6SXNzdWUzMTc0NTQxNDc=,2/10/2017 18:09:04,Elastic Machine,COLLABORATOR,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTQxNDc=,2/10/2017 18:09:05,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTQxNDc=,2/10/2017 18:09:05,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTQxNDc=,2/10/2017 18:09:06,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTc0NTQyNDE=,3/29/2017 11:32:04,Elastic Machine,COLLABORATOR,unknown,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUzMTc0NTQyNDE=,1/18/2018 10:29:04,Elastic Machine,COLLABORATOR,unknown,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUzMTc0NTQyNDE=,4/25/2018 7:13:47,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzMTc0NTQyNDE=,4/25/2018 16:35:22,Jay Modi,MEMBER,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzMTE5MzY2Mjc=,4/6/2018 15:11:05,Dylan Wylie,CONTRIBUTOR,male,No,No,Documentation,Elaboration,No
+MDU6SXNzdWUzMTE5MzY2Mjc=,4/6/2018 15:26:32,Gian Merlino,CONTRIBUTOR,male,No,No,None,Elaboration,No
+MDU6SXNzdWUzMTE5MzY2Mjc=,4/6/2018 19:34:57,Marcin Kuthan,NONE,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTgzMzc1NTM=,4/27/2018 10:21:26,Elastic Machine,COLLABORATOR,unknown,Contributor,Not applicable,None,Reminder,No
+MDU6SXNzdWUzMTgzMzc1NTM=,5/1/2018 15:54:32,Jay Modi,MEMBER,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzMTgzNzkyOTA=,10/14/2018 12:30:21,Yuriy Artamonov,CONTRIBUTOR,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzMTgzNzY5NTc=,6/23/2019 14:53:47,Konstantin Krivopustov,MEMBER,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzMTgzODk1NTM=,6/5/2018 18:30:02,Yuriy Artamonov,CONTRIBUTOR,male,No,No,None,Elaboration,No
+MDU6SXNzdWUzMTI3MjQ4Mjk=,4/10/2018 20:13:18, ,MEMBER,unknown,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWUzMTk0OTM5Mzk=,5/2/2018 10:44:01,"╭∩╮ (òÓ,) ╭∩╮",CONTRIBUTOR,unknown,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWUzMTk2NTgxNTI=,5/7/2018 15:34:03,Bruce Tiffany,MEMBER,male,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWUzMTk4MjY2NTg=,5/3/2018 8:21:34,Elastic Machine,COLLABORATOR,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUzMTk4MjY2NTg=,5/3/2018 9:05:21,Albert Zaharovits,CONTRIBUTOR,male,Contributor,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTk4MjY2NTg=,5/3/2018 13:55:33,Yogesh Gaikwad,CONTRIBUTOR,male,No,No,None,Elaboration,No
+MDU6SXNzdWUzMTk4MjY2NTg=,5/3/2018 15:18:24,Jay Modi,MEMBER,male,No,No,None,Elaboration,No
+MDU6SXNzdWUzMTk4MjY2NTg=,5/4/2018 13:15:07,Simon Willnauer,CONTRIBUTOR,male,No,Not applicable,None,Notification,No
+MDU6SXNzdWUzMTk4MjY2NTg=,5/7/2018 6:52:11,Tim Vernum,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzMTkyNDU4OTI=,5/1/2018 16:17:11,Elastic Machine,COLLABORATOR,unknown,No,Yes,Fix,Elaboration,Yes
+MDU6SXNzdWUzMTkyNDU4OTI=,5/1/2018 19:20:34,Jay Modi,MEMBER,male,No,Yes,Fix,Notification,No
+MDU6SXNzdWUzMTkyNDU4OTI=,5/1/2018 19:20:43,Elastic Machine,COLLABORATOR,unknown,No,Yes,Documentation,Notification,No
+MDU6SXNzdWUzMTkyNDU4OTI=,5/1/2018 19:24:15,Jay Modi,MEMBER,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzMTkyNDU4OTI=,5/3/2018 16:48:43,Jay Modi,MEMBER,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzMTQ4NTk0MDI=,5/2/2018 15:56:37,Eron Wright,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTQ4NTk0MDI=,2/12/2019 12:44:01,Flavio Junqueira,CONTRIBUTOR,male,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUzMTQ4NTk0MDI=,2/12/2019 18:37:24,Eron Wright,CONTRIBUTOR,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzMTQ4NTk0MDI=,9/30/2019 6:32:56,Ravi Sharda,CONTRIBUTOR,male,Contributor,Not applicable,None,Reminder,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,6/23/2011 15:18:11,Zhijun Ren,CONTRIBUTOR,male,No,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,6/23/2011 15:18:11,Zhijun Ren,CONTRIBUTOR,male,No,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,11/2/2011 14:48:06,Zhijun Ren,CONTRIBUTOR,male,Contributor,Yes,None,Ask / Request,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,11/2/2011 16:18:12,Zhijun Ren,CONTRIBUTOR,male,Contributor,Yes,None,Ask / Request,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,2/16/2012 12:35:32,Zhijun Ren,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,4/12/2012 16:14:49,Zhijun Ren,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,1/6/2013 16:47:52,Zhijun Ren,CONTRIBUTOR,male,No,No,Fix,Elaboration,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,3/8/2013 16:19:21,Zhijun Ren,CONTRIBUTOR,male,No,No,None,Elaboration,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,3/8/2013 17:25:27,Zhijun Ren,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,3/8/2013 17:29:47,Zhijun Ren,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,3/8/2013 17:39:13,Zhijun Ren,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,5/23/2013 10:16:01,Zhijun Ren,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,5/23/2013 10:37:42,Zhijun Ren,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,5/24/2013 12:52:00,Zhijun Ren,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,5/24/2013 13:37:02,Zhijun Ren,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,5/30/2013 20:08:24,Zhijun Ren,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,6/3/2013 19:46:37,Zhijun Ren,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,6/10/2013 21:11:04,Zhijun Ren,CONTRIBUTOR,male,No,Yes,None,Instruction,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,6/13/2013 16:04:19,Zhijun Ren,CONTRIBUTOR,male,No,Not applicable,None,Notification,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,6/20/2013 20:49:05,Zhijun Ren,CONTRIBUTOR,male,No,Yes,None,Notification,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,6/21/2013 0:40:58,Zhijun Ren,CONTRIBUTOR,male,No,Not applicable,None,Notification,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,6/22/2013 3:37:19,Zhijun Ren,CONTRIBUTOR,male,No,Not applicable,None,Notification,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,6/22/2013 3:37:19,Zhijun Ren,CONTRIBUTOR,male,No,Not applicable,None,Notification,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,6/25/2013 19:18:38,Zhijun Ren,CONTRIBUTOR,male,No,Not applicable,None,Notification,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,6/25/2013 19:18:38,Zhijun Ren,CONTRIBUTOR,male,No,Not applicable,None,Notification,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,6/26/2013 3:52:35,Zhijun Ren,CONTRIBUTOR,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,6/26/2013 16:10:33,Zhijun Ren,CONTRIBUTOR,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,6/26/2013 17:24:41,Zhijun Ren,CONTRIBUTOR,male,No,Yes,None,Other,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,6/27/2013 10:06:11,Zhijun Ren,CONTRIBUTOR,male,No,No,None,Other,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,5/2/2017 8:48:51,Zhijun Ren,CONTRIBUTOR,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTQ5NzAxNjk=,4/17/2018 9:08:28,Zhijun Ren,CONTRIBUTOR,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTQwNjY4NDk=,4/16/2018 7:48:03,"╭∩╮ (òÓ,) ╭∩╮",CONTRIBUTOR,unknown,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWUzMTQzMTQ1Mjk=,4/15/2018 1:11:21,shaharyarshamshi,CONTRIBUTOR,unknown,Author of Issue,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUzMTQzMTQ1Mjk=,4/15/2018 1:53:01,John Yong,MEMBER,male,No,Yes,None,Notification,No
+MDU6SXNzdWUzMTQzMTQ1Mjk=,1/24/2019 7:37:10,Jeremy,CONTRIBUTOR,male,Contributor,Not applicable,None,Other,No
+MDU6SXNzdWUzMTU2NjkxMQ==,4/15/2014 21:48:45,Lennart Koopmann,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTU2NjkxMQ==,6/26/2015 19:32:52, ,CONTRIBUTOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTU2NjkxMQ==,8/3/2016 14:29:03,Adam Belebczuk,NONE,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTU2NjkxMQ==,8/3/2016 16:32:11, ,NONE,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTU2NjkxMQ==,3/20/2017 17:49:08,Nick Meves,NONE,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTU2NjkxMQ==,2/20/2018 18:57:23,Victor Mendes,NONE,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTU2NjkxMQ==,2/20/2018 18:58:51, ,NONE,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTU2NjkxMQ==,2/20/2018 19:04:06,Douglas Oliveira,NONE,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTU2NjkxMQ==,4/16/2018 5:49:59,Ville Viitaharju,NONE,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTU2NjkxMQ==,6/5/2018 7:46:40, ,NONE,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTU2NjkxMQ==,8/16/2018 6:31:23,Christophe Tafani-Dereeper,NONE,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTU2NjkxMQ==,8/29/2018 8:58:10,Martin Machava,NONE,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTU2NjkxMQ==,3/27/2019 8:43:26, ,NONE,unknown,No,Not applicable,None,Reminder,No
+MDU6SXNzdWUzMTU2NjkxMQ==,7/9/2019 7:38:16,Gatis Špats,NONE,male,No,Not applicable,None,Reminder,No
+MDU6SXNzdWUzMTU3MzkyMDM=,4/19/2018 6:43:10,"╭∩╮ (òÓ,) ╭∩╮",CONTRIBUTOR,unknown,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWUzMTYwOTczNDk=,11/14/2011 16:25:15,Jersey Robot,CONTRIBUTOR,unknown,No,Yes,Fix,Ask / Request,No
+MDU6SXNzdWUzMTYwOTczNDk=,11/14/2011 16:25:15,Jersey Robot,CONTRIBUTOR,unknown,No,Yes,Fix,Elaboration,No
+MDU6SXNzdWUzMTYwOTczNDk=,11/17/2011 21:57:14,Jersey Robot,CONTRIBUTOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTYwOTczNDk=,11/17/2011 21:57:15,Jersey Robot,CONTRIBUTOR,unknown,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUzMTYwOTczNDk=,11/17/2011 21:57:15,Jersey Robot,CONTRIBUTOR,unknown,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUzMTYwOTczNDk=,11/18/2011 19:17:08,Jersey Robot,CONTRIBUTOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTYwOTczNDk=,11/18/2011 19:17:08,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Notification,Yes
+MDU6SXNzdWUzMTYwOTczNDk=,4/16/2012 22:24:43,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYwOTczNDk=,4/17/2012 13:07:44,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYwOTczNDk=,4/17/2012 17:45:33,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYwOTczNDk=,4/23/2012 20:37:42,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYwOTczNDk=,4/24/2012 8:34:18,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYwOTczNDk=,4/25/2017 3:52:01,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYwOTczNDk=,4/20/2018 1:47:03,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYwOTEyMDQ=,1/14/2011 19:56:40,Jersey Robot,CONTRIBUTOR,unknown,No,Yes,None,Ask / Request,No
+MDU6SXNzdWUzMTYwOTEyMDQ=,1/14/2011 19:56:40,Jersey Robot,CONTRIBUTOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTYwOTEyMDQ=,1/14/2011 19:56:40,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Notification,Yes
+MDU6SXNzdWUzMTYwOTEyMDQ=,1/18/2011 1:54:25,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYwOTEyMDQ=,1/24/2011 16:45:45,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYwOTEyMDQ=,1/24/2011 16:45:45,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYwOTEyMDQ=,4/25/2017 3:42:43,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYwOTEyMDQ=,4/20/2018 1:09:40,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYwOTQ1MjE=,7/21/2011 8:10:50,Jersey Robot,CONTRIBUTOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTYwOTQ1MjE=,7/21/2011 8:10:50,Jersey Robot,CONTRIBUTOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTYwOTQ1MjE=,10/12/2011 13:50:36,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Notification,Yes
+MDU6SXNzdWUzMTYwOTQ1MjE=,11/21/2011 19:11:20,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYwOTQ1MjE=,11/21/2011 19:11:20,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYwOTQ1MjE=,4/25/2017 3:47:59,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYwOTQ1MjE=,4/20/2018 1:31:15,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxMDM3MDE=,4/3/2012 0:22:06,Jersey Robot,CONTRIBUTOR,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzMTYxMDM3MDE=,4/3/2012 0:22:06,Jersey Robot,CONTRIBUTOR,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzMTYxMDM3MDE=,4/11/2012 16:30:27,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxMDM3MDE=,4/11/2012 16:30:27,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxMDM3MDE=,4/25/2017 4:01:28,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxMDM3MDE=,4/20/2018 2:22:55,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxMTc2OTA=,11/22/2012 11:12:09,Jersey Robot,CONTRIBUTOR,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzMTYxMTc2OTA=,11/27/2012 10:49:17,Jersey Robot,CONTRIBUTOR,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzMTYxMTc2OTA=,11/27/2012 10:49:17,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxMTc2OTA=,4/25/2017 4:24:03,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxMTc2OTA=,4/20/2018 3:45:59,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxMzg3MjY=,3/22/2014 9:41:42,Jersey Robot,CONTRIBUTOR,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzMTYxMzg3MjY=,3/27/2014 13:39:16,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxMzg3MjY=,4/25/2017 5:06:21,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxMzg3MjY=,4/20/2018 6:04:36,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxMzUxMTI=,1/17/2014 16:02:43,Jersey Robot,CONTRIBUTOR,unknown,No,Yes,None,Notification,No
+MDU6SXNzdWUzMTYxMzUxMTI=,9/10/2015 19:48:48,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Notification,Yes
+MDU6SXNzdWUzMTYxMzUxMTI=,9/10/2015 19:48:48,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxMzUxMTI=,4/25/2017 5:01:27,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxMzUxMTI=,4/20/2018 5:44:38,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxNDI1MzU=,7/2/2014 12:02:23,Jersey Robot,CONTRIBUTOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTYxNDI1MzU=,7/7/2014 12:20:37,Jersey Robot,CONTRIBUTOR,unknown,No,Yes,None,Notification,No
+MDU6SXNzdWUzMTYxNDI1MzU=,9/10/2015 19:48:48,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Notification,Yes
+MDU6SXNzdWUzMTYxNDI1MzU=,9/10/2015 19:48:48,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxNDI1MzU=,4/25/2017 5:11:17,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxNDI1MzU=,4/20/2018 6:24:54,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxNjkzMTA=,9/19/2016 16:05:04,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxNjkzMTA=,4/25/2017 5:42:10,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxNjkzMTA=,4/20/2018 8:13:16,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxNjQ5MzE=,2/29/2016 15:57:22,Jersey Robot,CONTRIBUTOR,unknown,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUzMTYxNjQ5MzE=,4/25/2017 5:38:24,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxNjQ5MzE=,4/20/2018 7:57:41,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxNjQ5MzE=,7/14/2018 0:19:25,Paul Samsotha,NONE,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxNTUxNzc=,5/12/2015 11:37:42,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUzMTYxNTUxNzc=,8/10/2015 16:00:01,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUzMTYxNTUxNzc=,1/4/2016 14:00:31,Jersey Robot,CONTRIBUTOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzMTYxNTUxNzc=,1/5/2016 11:02:51,Jersey Robot,CONTRIBUTOR,unknown,No,Yes,Reproducability,Elaboration,No
+MDU6SXNzdWUzMTYxNTUxNzc=,1/5/2016 11:39:21,Jersey Robot,CONTRIBUTOR,unknown,No,No,None,Notification,No
+MDU6SXNzdWUzMTYxNTUxNzc=,4/25/2017 5:24:00,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxNTUxNzc=,12/18/2017 11:49:28,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMTYxNTUxNzc=,4/20/2018 7:21:08,Jersey Robot,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzMzcxMTYyNDE=,6/29/2018 19:45:39,Elastic Machine,COLLABORATOR,unknown,No,No,Documentation,Elaboration,No
+MDU6SXNzdWUzMzcxMTYyNDE=,6/29/2018 20:06:30,Elastic Machine,COLLABORATOR,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUzMzcxMTYyNDE=,7/2/2018 19:09:21,Jay Modi,MEMBER,male,No,No,Documentation,Elaboration,No
+MDU6SXNzdWUzMzcxMTYyNDE=,7/3/2018 19:28:29,Jay Modi,MEMBER,male,No,Yes,Documentation,Notification,Yes
+MDU6SXNzdWUzMzcxMTYyNDE=,8/3/2018 8:51:43,Colin Goodheart-Smithe,MEMBER,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzMzcxMTYyNDE=,8/3/2018 13:43:08,Jim Ferenczi,MEMBER,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzMzIzOTgzOTg=,6/14/2018 13:15:54,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzMzIzOTgzOTg=,6/14/2018 13:15:55,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzMzU1NzQ5Mjg=,7/2/2018 19:02:07,Adam Yoho,MEMBER,male,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWUzMzUwNDg3ODM=,6/25/2018 10:05:38,Dennis Oelkers,MEMBER,male,No,No,None,Elaboration,No
+MDU6SXNzdWUzMzUwNDg3ODM=,6/28/2018 7:44:55,Bernd Ahlers,MEMBER,male,Author of issue,Yes,None,Notification,Yes
+MDU6SXNzdWUzMzUwNDg3ODM=,6/28/2018 7:48:52, ,NONE,unknown,Member,Not applicable,None,Other,No
+MDU6SXNzdWUzMzUyOTM2NjY=,6/28/2018 13:43:22,Florian Popp,MEMBER,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzNDc4MjI3OTU=,8/6/2018 8:15:52,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzNDE2ODM3MDY=,7/28/2018 12:19:30, ,NONE,unknown,No,Yes,None,Ask / Request,No
+MDU6SXNzdWUzNDE2ODM3MDY=,7/30/2018 19:26:50, ,CONTRIBUTOR,unknown,No,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUzNDE2ODM3MDY=,7/30/2018 19:30:33, ,NONE,unknown,No,Yes,None,Ask / Request,No
+MDU6SXNzdWUzNDE2ODM3MDY=,7/31/2018 0:28:51, ,CONTRIBUTOR,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUzNDE2ODM3MDY=,8/3/2018 18:11:20, ,NONE,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzNDE2ODM3MDY=,8/3/2018 20:41:07, ,CONTRIBUTOR,unknown,Author of issue,Yes,None,Notification,Yes
+MDU6SXNzdWUzNDE2ODM3MDY=,10/24/2018 20:12:56, ,CONTRIBUTOR,unknown,No,Yes,None,Notification,No
+MDU6SXNzdWUzNDg2MDM1MzU=,8/8/2018 7:16:09,Elastic Machine,COLLABORATOR,unknown,Author of issue,Yes,Fix,Notification,Yes
+MDU6SXNzdWUzNDg2MDM1MzU=,8/8/2018 9:13:35,Jason Tedor,MEMBER,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzNDgyNTgyMjQ=,8/7/2018 10:19:32,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzNDk0OTM1MzE=,8/10/2018 12:16:45,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzNDk0OTM1MzE=,8/27/2018 5:14:00,Tim Vernum,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzNDk0OTM1MzE=,8/28/2018 7:30:06,Tim Vernum,CONTRIBUTOR,male,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUzNDk0OTM1MzE=,8/28/2018 7:57:43,Tim Vernum,CONTRIBUTOR,male,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUzNDk0OTM1MzE=,8/30/2018 12:39:58,Albert Zaharovits,CONTRIBUTOR,male,Member,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUzNDk0OTM1MzE=,8/30/2018 16:00:54,Jay Modi,MEMBER,male,Contributor,No,None,Elaboration,No
+MDU6SXNzdWUzNDk0OTM1MzE=,9/5/2018 5:59:56,Tim Vernum,CONTRIBUTOR,male,Contributor,Not applicable,None,Other,No
+MDU6SXNzdWUzNDk0OTM1MzE=,9/5/2018 7:51:18,Brandon Kobel,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzNDM3ODY4ODA=,7/26/2018 21:49:16, ,CONTRIBUTOR,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzNDM3ODY4ODA=,7/26/2018 21:49:37, ,CONTRIBUTOR,unknown,No,Yes,None,Notification,No
+MDU6SXNzdWUzNDUwNjI0NTc=,7/27/2018 1:50:33,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzNDUwNjI0NTc=,7/28/2018 13:57:00,Jason Tedor,MEMBER,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzNDUxMDAzMTM=,10/31/2018 18:23:11,Bruno Bossola,NONE,male,No,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUzNDUxMDAzMTM=,11/12/2018 9:15:27,Bruno Bossola,NONE,male,Author of issue,No,None,Ask / Request,No
+MDU6SXNzdWUzNDUxMDAzMTM=,11/12/2018 20:00:03,Tatu Saloranta,MEMBER,unknown,Author of issue,Yes,CVE,Elaboration,No
+MDU6SXNzdWUzNDUxMDAzMTM=,11/23/2018 18:42:26,Tatu Saloranta,MEMBER,unknown,Author of issue,Yes,CVE,Elaboration,No
+MDU6SXNzdWUzNDUxMDAzMTM=,1/15/2019 14:36:42,Cedric DANGREMONT,NONE,male,Other,No,None,Elaboration,No
+MDU6SXNzdWUzNDUxMDAzMTM=,1/15/2019 15:41:18,Cedric DANGREMONT,NONE,male,Other,Yes,None,Elaboration,No
+MDU6SXNzdWUzNDUxMDAzMTM=,1/16/2019 19:33:12,Tatu Saloranta,MEMBER,unknown,Other,Yes,None,Elaboration,No
+MDU6SXNzdWUzNDUxMDAzMTM=,1/23/2019 22:27:19,Staci,NONE,female,No,Yes,None,Notification,No
+MDU6SXNzdWUzNDUxMDAzMTM=,1/24/2019 5:27:41,Tatu Saloranta,MEMBER,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzNDUxMDAzMTM=,1/24/2019 17:30:23,Staci,NONE,female,Author of issue,Not applicable,None,Other,No
+MDU6SXNzdWUzNDUxMDAzMTM=,1/24/2019 22:10:06,Tatu Saloranta,MEMBER,unknown,Other,Not applicable,None,Other,No
+MDU6SXNzdWUzNDYwNDQ0NDg=,7/31/2018 5:51:33,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Notification,No
+MDU6SXNzdWUzNDYwNDQ0NDg=,7/31/2018 14:29:20,Ioannis Kakavas,CONTRIBUTOR,male,No,Yes,None,Notification,No
+MDU6SXNzdWUzNDYwNDQ0NDg=,8/3/2018 7:16:56,Ioannis Kakavas,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzNjA3ODkxNDM=,9/17/2018 9:35:49,Elastic Machine,COLLABORATOR,unknown,No,No,None,Notification,Yes
+MDU6SXNzdWUzNjA3ODkxNDM=,10/25/2018 14:39:49,Tim Brooks,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzNjUxOTUyNDk=,9/30/2018 10:59:49,Dmitriy Dumanskiy,COLLABORATOR,male,Author of Issue,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUzNjUxOTUyNDk=,9/30/2018 11:29:56,Mingxuan,NONE,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzNjUxOTUyNDk=,9/30/2018 11:40:44,Blynk IoT platform,OWNER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzNjUxOTUyNDk=,9/30/2018 11:41:22,Mingxuan,NONE,male,No,Yes,None,Notification,No
+MDU6SXNzdWUzNjUxOTUyNDk=,10/1/2018 9:40:12,Sven Krewitt,NONE,male,No,Yes,None,Notification,No
+MDU6SXNzdWUzNjUxOTUyNDk=,10/1/2018 10:01:37,Dmitriy Dumanskiy,COLLABORATOR,male,No,Yes,None,Notification,No
+MDU6SXNzdWUzNjUxOTUyNDk=,10/3/2018 2:10:44,Haru Sugiyama,NONE,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzNjUxOTUyNDk=,10/3/2018 8:46:23,Dmitriy Dumanskiy,COLLABORATOR,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzNjUxOTUyNDk=,4/1/2020 16:34:18,Arthur Baars,NONE,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzNjUxOTUyNDk=,4/2/2020 14:13:01,Dmitriy Dumanskiy,COLLABORATOR,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzNjYxMzA5Mzc=,10/3/2018 0:37:30,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzNTc1MDgyODU=,9/6/2018 7:00:07,juyttenh,NONE,unknown,No,Yes,None,Ask / Request,No
+MDU6SXNzdWUzNTc1MDgyODU=,9/6/2018 7:26:43,Andy Bryant,CONTRIBUTOR,male,No,Yes,None,Ask / Request,No
+MDU6SXNzdWUzNTc1MDgyODU=,9/7/2018 5:59:50,Apurva Mehta,CONTRIBUTOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzNTc1MDgyODU=,9/8/2018 4:50:49,Andy Bryant,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzNTc1MDgyODU=,9/11/2018 6:20:26,Apurva Mehta,CONTRIBUTOR,unknown,No,No,Documentation,Elaboration,No
+MDU6SXNzdWUzNTc1MDgyODU=,9/11/2018 6:21:13,Apurva Mehta,CONTRIBUTOR,unknown,No,No,None,Notification,No
+MDU6SXNzdWUzNTc1MDgyODU=,3/1/2019 23:31:42,Andy Coates,MEMBER,male,No,Not applicable,None,Notification,No
+MDU6SXNzdWUzNTc1MDgyODU=,3/1/2019 23:32:06,Andy Coates,MEMBER,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzNTcyNjI3NTk=,9/6/2018 14:15:18,Nick Babcock,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzNTcyNjI3NTk=,9/7/2018 11:45:42,Joakim Erdfelt,NONE,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzNTcyNjI3NTk=,9/7/2018 12:13:13,Nick Babcock,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzNTg1MTM1OTc=,10/11/2018 12:17:40, ,NONE,unknown,Other,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUzNTg1MTM1OTc=,10/11/2018 16:06:35,Jakob Nixdorf,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzNTg1MTM1OTc=,10/10/2019 16:14:37,Markus Birth,NONE,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzNTg1MTM1OTc=,10/10/2019 16:23:19,Jakob Nixdorf,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzNTg1MTM1OTc=,10/11/2019 15:46:58,Vincent Danos,NONE,male,Other,Yes,None,Elaboration,No
+MDU6SXNzdWUzNTg1MTM1OTc=,10/11/2019 16:03:51,Markus Birth,NONE,male,Member,Yes,None,Elaboration,No
+MDU6SXNzdWUzNTg1MTM1OTc=,10/11/2019 16:27:21,Jakob Nixdorf,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzNTg1MTM1OTc=,10/11/2019 16:30:12,Vincent Danos,NONE,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzNTg1MTM1OTc=,10/11/2019 19:38:17,Markus Birth,NONE,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzNTg1MTM1OTc=,10/11/2019 22:47:45,Richy HBM,CONTRIBUTOR,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzNTIxNjkyNjg=,8/20/2018 14:53:49,Mikhail Kalinin,CONTRIBUTOR,male,Contributor,No,CVE,Elaboration,No
+MDU6SXNzdWUzNTIxNjkyNjg=,6/27/2019 15:16:45,Robert Schultheis,NONE,male,Other,No,None,Notification,No
+MDU6SXNzdWUzNTIxNjkyNjg=,7/2/2019 5:46:02,Mikhail Kalinin,CONTRIBUTOR,male,Other,Not applicable,None,Other,No
+MDU6SXNzdWUzNTIxNjkyNjg=,7/18/2019 15:27:18,Robert Schultheis,NONE,male,Author of issue,No,CVE,Reminder,No
+MDU6SXNzdWUzNTk5OTMwMjM=,9/13/2018 17:32:04,Elastic Machine,COLLABORATOR,unknown,Author of issue,No,Fix,Notification,Yes
+MDU6SXNzdWUzNTk5OTMwMjM=,9/13/2018 17:37:59,Ioannis Kakavas,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzNTM3MDc0MjY=,8/24/2018 9:18:46,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzNTMyMzg3MzU=,8/23/2018 6:14:55,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Notification,No
+MDU6SXNzdWUzNTMyMzg3MzU=,10/7/2019 17:41:15,James Rodewig,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzNTQzMTAwMDc=,8/27/2018 13:03:28,Elastic Machine,COLLABORATOR,unknown,No,No,Documentation,Elaboration,No
+MDU6SXNzdWUzNTQzMTAwMDc=,8/27/2018 14:02:46,Ioannis Kakavas,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzNTQzNzI1Nzg=,8/27/2018 15:47:33,Jason Tedor,MEMBER,male,No,Yes,Fix,Elaboration,No
+MDU6SXNzdWUzNTQzNzI1Nzg=,8/27/2018 20:51:11,Jay Modi,MEMBER,male,No,Yes,Fix,Notification,No
+MDU6SXNzdWUzNTQzNzI1Nzg=,8/28/2018 17:41:06,Jay Modi,MEMBER,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzNzAzNDYyMjg=,10/16/2018 8:00:38,Daniele Gobbetti,CONTRIBUTOR,male,No,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUzNzAzNDYyMjg=,10/16/2018 17:09:16,Felix Geyer,NONE,male,No,Yes,None,Ask / Request,No
+MDU6SXNzdWUzNzAzNDYyMjg=,10/17/2018 8:30:00,Daniele Gobbetti,CONTRIBUTOR,male,No,No,Fix,Ask / Request,No
+MDU6SXNzdWUzNzAzNDYyMjg=,10/17/2018 13:13:19,José Rebelo,CONTRIBUTOR,male,No,No,None,Elaboration,No
+MDU6SXNzdWUzNzAzNDYyMjg=,10/17/2018 14:35:06,Daniele Gobbetti,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzNzAzNDYyMjg=,11/26/2018 7:16:31,Andreas Shimokawa,CONTRIBUTOR,male,No,No,None,Elaboration,No
+MDU6SXNzdWUzNzAzNDYyMjg=,3/17/2019 14:46:42,TW,NONE,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzNzAzNDYyMjg=,3/17/2019 15:13:54,TW,NONE,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzNzAzNDYyMjg=,3/17/2019 20:19:38,TW,NONE,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzNzE2MjIwODE=,10/18/2018 17:10:52,Elastic Machine,COLLABORATOR,unknown,Author of issue,Not applicable,None,Other,No
+MDU6SXNzdWUzNzE2MjIwODE=,10/18/2018 17:20:19, ,CONTRIBUTOR,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzNzE2MjIwODE=,10/18/2018 17:57:14, ,CONTRIBUTOR,unknown,Member,Not applicable,None,Other,No
+MDU6SXNzdWUzNzE2MjIwODE=,10/18/2018 17:59:44,Andy Bristol,CONTRIBUTOR,male,Contributor,Not applicable,None,Other,No
+MDU6SXNzdWUzNzE2MjIwODE=,10/18/2018 18:58:52, ,CONTRIBUTOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzNzE2MjIwODE=,10/18/2018 19:41:49,Andy Bristol,CONTRIBUTOR,male,Contributor,Not applicable,None,Reminder,No
+MDU6SXNzdWUzNzE5NDk3OTA=,10/19/2018 13:40:16,Dmitriy Dumanskiy,COLLABORATOR,male,Author of issue,Yes,None,Ask / Request,No
+MDU6SXNzdWUzNzE5NDk3OTA=,10/19/2018 13:42:46,Volodymyr Shymanskyy,NONE,male,Author of issue,Yes,None,Elaboration,No
+MDU6SXNzdWUzNzE5NDk3OTA=,10/19/2018 13:47:02,Dmitriy Dumanskiy,COLLABORATOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzNzE5NDk3OTA=,10/19/2018 13:52:11,Volodymyr Shymanskyy,NONE,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzNzI5Mzc5NjU=,10/23/2018 12:28:30,"╭∩╮ (òÓ,) ╭∩╮",CONTRIBUTOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzNzI5Mzc5NjU=,10/23/2018 12:40:01,Melloware,MEMBER,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUzNzI5Mzc5NjU=,10/23/2018 12:42:17,"╭∩╮ (òÓ,) ╭∩╮",CONTRIBUTOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzNzI5Mzc5NjU=,10/24/2018 9:23:08,"╭∩╮ (òÓ,) ╭∩╮",CONTRIBUTOR,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUzNzI5Mzc5NjU=,10/31/2018 9:42:41,"╭∩╮ (òÓ,) ╭∩╮",CONTRIBUTOR,unknown,No,Not applicable,None,Notification,No
+MDU6SXNzdWUzNzMwMzI2MzY=,10/23/2018 14:31:34,Jörg Hohwiller,MEMBER,male,No,No,None,Ask / Request,No
+MDU6SXNzdWUzNzMwMzI2MzY=,10/30/2018 13:36:08,Jörg Hohwiller,MEMBER,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzNzMwMzI2MzY=,10/30/2018 13:52:01,Jörg Hohwiller,MEMBER,male,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWUzNzMwMzI2MzY=,10/30/2018 14:17:18,Jörg Hohwiller,MEMBER,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzNzQ1MDYxNzg=,10/26/2018 18:53:53,Elastic Machine,COLLABORATOR,unknown,No,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUzNzQ1MDYxNzg=,10/26/2018 19:14:24,Jay Modi,MEMBER,male,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUzNzQ1MDYxNzg=,10/26/2018 20:20:51, ,NONE,unknown,Other,Yes,None,Elaboration,No
+MDU6SXNzdWUzNzQ1MDYxNzg=,11/12/2018 22:53:14, ,NONE,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzNzQ1MDYxNzg=,11/13/2018 17:54:07, ,NONE,unknown,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUzNzQ1MDYxNzg=,11/13/2018 18:42:19, ,NONE,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUzNzQ1MDYxNzg=,11/13/2018 19:30:36,Jason Bryan,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzNzQ1MDYxNzg=,11/13/2018 19:57:36,Jay Modi,MEMBER,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzNzQ1MDYxNzg=,11/13/2018 23:44:55, ,NONE,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzNzQzMTU2ODA=,12/10/2018 7:56:13,Gleb Gorelov,MEMBER,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzNzU4MDExODY=,10/31/2018 5:10:35,Elastic Machine,COLLABORATOR,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzNzU4MDExODY=,11/8/2018 14:58:31, ,NONE,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzNzU4MDExODY=,11/8/2018 15:24:21,Jay Modi,MEMBER,male,No,Not applicable,None,Other,No
+MDU6SXNzdWUzNzU4MDExODY=,11/8/2018 15:59:48,Ioannis Kakavas,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzNzUyMTI5MTQ=,10/31/2018 21:28:32,Manjiri Tapaswi,CONTRIBUTOR,female,Author of issue,Not applicable,Fix,Notification,Yes
+MDU6SXNzdWUzNzUyMTI5MTQ=,10/31/2018 22:47:25,Sijie Guo,MEMBER,unknown,Contributor,Not applicable,None,Other,No
+MDU6SXNzdWUzNzY0NjA1MDc=,12/29/2018 15:40:05,Brian Hawkins,MEMBER,male,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWUzODcxNjM2NzM=,12/4/2018 8:04:24,Elastic Machine,COLLABORATOR,unknown,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUzODcxNjM2NzM=,12/4/2018 8:59:31,Daniel Mitterdorfer,MEMBER,male,No,No,None,Elaboration,No
+MDU6SXNzdWUzODcxNjM2NzM=,12/4/2018 13:05:37,Tim Vernum,CONTRIBUTOR,male,No,Yes,Documentation,Elaboration,No
+MDU6SXNzdWUzODcxNjM2NzM=,12/11/2018 9:52:02,Martijn van Groningen,MEMBER,male,No,No,None,Elaboration,No
+MDU6SXNzdWUzODcxNjM2NzM=,12/11/2018 12:17:24,Martijn van Groningen,MEMBER,male,No,Yes,Documentation,Notification,No
+MDU6SXNzdWUzODcxNjM2NzM=,12/11/2018 12:38:07,Jay Modi,MEMBER,male,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWUzODcxNjM2NzM=,12/11/2018 12:44:07,Tim Vernum,CONTRIBUTOR,male,No,Yes,Documentation,Notification,No
+MDU6SXNzdWUzODcxNjM2NzM=,12/11/2018 14:29:42,Jay Modi,MEMBER,male,No,Yes,Documentation,Notification,No
+MDU6SXNzdWUzODcxNjM2NzM=,12/12/2018 13:07:21,Andrei Stefan,CONTRIBUTOR,male,No,Yes,None,Notification,No
+MDU6SXNzdWUzODcxNjM2NzM=,12/12/2018 15:05:36,Jay Modi,MEMBER,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzODE1Mzk3MjA=,11/16/2018 10:29:00,Elastic Machine,COLLABORATOR,unknown,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWUzODE1Mzk3MjA=,12/6/2018 14:07:57,Jason Tedor,MEMBER,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzODEzMjI2ODQ=,11/15/2018 20:17:38,David Burdine,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzODEzMjI2ODQ=,11/15/2018 23:00:42,David Burdine,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzODEzMjI2ODQ=,1/7/2019 19:15:54,David Burdine,CONTRIBUTOR,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzODEzMjI2ODQ=,1/29/2019 19:57:18,Toshi Yamamoto,CONTRIBUTOR,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzODEzMjI2ODQ=,10/3/2019 16:43:43,David Burdine,CONTRIBUTOR,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzODg0NTQ2NTI=,12/7/2018 1:28:13,Jinbo Wang,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzODg0NTQ2NTI=,12/7/2018 1:39:40,Jinbo Wang,CONTRIBUTOR,male,No,Yes,None,Notification,No
+MDU6SXNzdWUzODg1NDc1NTM=,12/7/2018 11:38:53,Elastic Machine,COLLABORATOR,unknown,No,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUzODg1NDc1NTM=,12/7/2018 12:14:45,Ioannis Kakavas,CONTRIBUTOR,male,No,No,Documentation,Elaboration,No
+MDU6SXNzdWUzODg1NDc1NTM=,12/10/2018 0:25:55,Tim Vernum,CONTRIBUTOR,male,No,No,Documentation,Elaboration,No
+MDU6SXNzdWUzODg1NDc1NTM=,12/10/2018 0:28:42,Tim Vernum,CONTRIBUTOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzODg1NDc1NTM=,8/16/2019 22:55:21,Simone Scarduzio,CONTRIBUTOR,unknown,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzODg1NDc1NTM=,10/1/2019 0:11:15, ,CONTRIBUTOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzODI2NzA4ODM=,11/20/2018 13:47:32,Elastic Machine,COLLABORATOR,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUzODI2NzA4ODM=,11/20/2018 13:56:04,Alpar Torok,CONTRIBUTOR,male,No,No,None,Elaboration,No
+MDU6SXNzdWUzODI2NzA4ODM=,11/21/2018 2:00:34,Tim Vernum,CONTRIBUTOR,male,No,Yes,None,Notification,No
+MDU6SXNzdWUzODI2NzA4ODM=,1/10/2019 15:11:25,Jay Modi,MEMBER,male,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWUzODI2NzA4ODM=,1/10/2019 23:55:18,Tim Vernum,CONTRIBUTOR,male,Contributor,Not applicable,None,Reminder,No
+MDU6SXNzdWUzODI2NzA4ODM=,10/1/2019 7:48:57,Ioannis Kakavas,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzODk5MjE0OTU=,12/11/2018 19:38:33, ,MEMBER,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzODk5MjE0OTU=,12/12/2018 19:18:20, ,MEMBER,unknown,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWUzODk5MjE0OTU=,1/22/2019 21:09:22, ,MEMBER,unknown,No,Not applicable,None,Other,No
+MDU6SXNzdWUzODkyMTY4MTU=,12/16/2018 8:27:42,Risto Lahtela,COLLABORATOR,male,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzODM0OTMzMzE=,11/22/2018 11:26:38,Wei Zhou,CONTRIBUTOR,unknown,No,Yes,None,Notification,No
+MDU6SXNzdWUzODM0OTMzMzE=,1/3/2020 15:16:36,Andrija Panic,CONTRIBUTOR,male,Contributor,Yes,Fix,Notification,No
+MDU6SXNzdWUzODM0OTMzMzE=,1/6/2020 13:21:22,Wei Zhou,CONTRIBUTOR,unknown,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWUzODM0OTMzMzE=,1/8/2020 16:17:36,Wei Zhou,CONTRIBUTOR,unknown,Author of issue,Not applicable,None,Reminder,No
+MDU6SXNzdWUzODMyNjcyMzE=,11/21/2018 22:47:14,e-Evolution,CONTRIBUTOR,unknown,Author of issue,Yes,None,Instruction,No
+MDU6SXNzdWUzODMyNjcyMzE=,5/28/2019 20:51:40,Yamel Senih,MEMBER,unknown,Author of issue,Yes,None,Notification,Yes
+MDU6SXNzdWUzODQ5MTc5MTk=,11/29/2018 13:19:50,Dario Leidi,CONTRIBUTOR,male,No,No,Documentation,Elaboration,No
+MDU6SXNzdWUzODQ5MTc5MTk=,11/29/2018 14:48:39,Luis Neves,MEMBER,male,No,No,None,Elaboration,No
+MDU6SXNzdWUzODQ5Mzk5NjU=,11/27/2018 18:59:32,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzODUxMzk4MzY=,11/28/2018 7:42:41,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzODY0MDkxNzk=,12/1/2018 1:51:41,Fred Bricon,CONTRIBUTOR,male,No,Yes,None,Reminder,No
+MDU6SXNzdWUzODY5MDEyNTk=,12/3/2018 16:34:50,Elastic Machine,COLLABORATOR,unknown,Author of issue,Yes,None,Elaboration,Yes
+MDU6SXNzdWUzODY5MDEyNTk=,12/3/2018 17:56:03,Albert Zaharovits,CONTRIBUTOR,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzOTc3MTA1MDY=,1/10/2019 8:19:59,Thomas Andraschko,MEMBER,male,No,No,None,Ask / Request,No
+MDU6SXNzdWUzOTc3MTA1MDY=,1/10/2019 8:33:11,"╭∩╮ (òÓ,) ╭∩╮",CONTRIBUTOR,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUzOTc3MTA1MDY=,1/10/2019 12:14:52,Melloware,MEMBER,unknown,Author of issue,Yes,None,Elaboration,No
+MDU6SXNzdWUzOTc3MTA1MDY=,1/10/2019 12:25:00,Melloware,MEMBER,unknown,No,No,Documentation,Elaboration,No
+MDU6SXNzdWUzOTc3MTA1MDY=,1/11/2019 5:50:52,"╭∩╮ (òÓ,) ╭∩╮",CONTRIBUTOR,unknown,No,Yes,Fix,Notification,Yes
+MDU6SXNzdWUzOTc3MTA1MDY=,1/14/2019 13:03:13,"╭∩╮ (òÓ,) ╭∩╮",CONTRIBUTOR,unknown,Member,Yes,None,Other,No
+MDU6SXNzdWUzOTc4OTM4OTg=,1/10/2019 17:59:39,Brent Griffin,CONTRIBUTOR,male,No,Yes,Documentation,Notification,No
+MDU6SXNzdWUzOTc4OTM4OTg=,2/25/2019 20:48:11,Jonathan Gamba,CONTRIBUTOR,male,No,Yes,None,Notification,Yes
+MDU6SXNzdWUzOTc4OTM4OTg=,2/27/2019 22:45:06,Bryan,COLLABORATOR,male,No,Yes,Fix,Notification,No
+MDU6SXNzdWUzOTE4MDQ5ODg=,12/17/2018 17:01:27,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzOTE5NTE2MDk=,1/22/2019 18:26:44, ,NONE,unknown,Other,Not applicable,None,Ask / Request,No
+MDU6SXNzdWUzOTE5NTE2MDk=,1/23/2019 10:30:26,Edmundo Alvarez,MEMBER,male,Other,Yes,None,Elaboration,No
+MDU6SXNzdWUzOTE5NTE2MDk=,1/23/2019 16:42:03, ,NONE,unknown,No,No,None,Elaboration,No
+MDU6SXNzdWUzOTE5NTE2MDk=,7/12/2019 14:49:15,jro,NONE,unknown,Member,No,None,Elaboration,No
+MDU6SXNzdWUzOTE5NTE2MDk=,10/28/2019 11:01:52, ,NONE,unknown,No,Yes,None,Reminder,No
+MDU6SXNzdWUzOTkzODY0NjE=,1/15/2019 15:05:26,Elastic Machine,COLLABORATOR,unknown,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzOTQ1ODUwNDU=,12/28/2018 8:57:58,Elastic Machine,COLLABORATOR,unknown,No,Yes,Documentation,Elaboration,Yes
+MDU6SXNzdWUzOTQ1ODUwNDU=,12/28/2018 9:01:56,Ioannis Kakavas,CONTRIBUTOR,male,Contributor,Not applicable,None,Other,No
+MDU6SXNzdWUzOTQ1ODUwNDU=,12/28/2018 9:34:18,Luca Cavanna,MEMBER,male,Member,Not applicable,None,Reminder,No
+MDU6SXNzdWUzOTY1OTA0NDI=,1/7/2019 18:13:41,Gene Pang,COLLABORATOR,unknown,No,Yes,None,Elaboration,No
+MDU6SXNzdWUzOTY1OTA0NDI=,1/8/2019 3:16:27,lishuang,NONE,unknown,No,Yes,None,Elaboration,No
